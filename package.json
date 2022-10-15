@@ -1,0 +1,16 @@
+{
+  "name": "syndicate",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "warframe syndicate prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "tony",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.10"
+  }
+}
