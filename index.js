@@ -4,6 +4,7 @@
 
 import fetch from "node-fetch";
 import fs from "fs";
+import {endo} from "./scarpe.js"
 
 async function getItem(item) {
   const baseURL = `https://api.warframe.market/v1/items/${item}/orders`;
@@ -34,7 +35,9 @@ async function getItemInfo(item) {
     headers: { "Content-Type": "application/json", Platform: "pc" },
   });
   const data = await response.json();
-  return data.payload.item.items_in_set[0].mod_max_rank;
+  // console.log(data.payload.item.items_in_set[0]);
+  // return data.payload.item.items_in_set[0].mod_max_rank;
+  return data.payload.item.items_in_set[0];
 }
 
 async function getStats(item) {
@@ -125,15 +128,18 @@ async function start() {
   for (let i = 0; i < modsArr.length; i++) {
     let modName = modsArr[i];
     const itemInfo = await getItemInfo(modName);
-    const stats = await getStats(modName);
+    const volume = await getStats(modName);
 
     const primedMod = await getPrimedMod(modName);
-    const primedModMax = await getMaxPrimedMod(modName, itemInfo);
+    const primedModMax = await getMaxPrimedMod(modName, itemInfo.mod_max_rank);
 
-    Promise.all([itemInfo, stats, primedMod, primedModMax]).then((values) => {
-      let hotness = (values[3] - values[2]) * values[1];
-      console.log(`${modName}: ${hotness}`);
-      results.push({ modName: modName, hotness: hotness });
+    Promise.all([itemInfo, volume, primedMod, primedModMax]).then((values) => {
+      setTimeout(function() {
+        let hotness = (values[3] - values[2]) * values[1]/ endo[values[0].rarity];
+        console.log(`${modName}: ${hotness}`);
+        results.push({ modName: modName, hotness: hotness });
+    }, 400);
+
     });
   }
 

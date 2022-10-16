@@ -1,3731 +1,1851 @@
 [
   {
-    "modName": "archon_vitality",
-    "hotness": 6480
-  },
-  {
     "modName": "blind_rage",
-    "hotness": 6290
-  },
-  {
-    "modName": "transient_fortitude",
-    "hotness": 5829
-  },
-  {
-    "modName": "narrow_minded",
-    "hotness": 5700
+    "hotness": 0.26901270772238517
   },
   {
     "modName": "galvanized_chamber",
-    "hotness": 4250
-  },
-  {
-    "modName": "blood_rush",
-    "hotness": 4000
-  },
-  {
-    "modName": "archon_stretch",
-    "hotness": 3692
-  },
-  {
-    "modName": "archon_flow",
-    "hotness": 3600
-  },
-  {
-    "modName": "heavy_caliber",
-    "hotness": 3498
+    "hotness": 0.22580645161290322
   },
   {
     "modName": "adaptation",
-    "hotness": 3276
+    "hotness": 0.19110459433040078
   },
   {
-    "modName": "galvanized_aptitude",
-    "hotness": 3237
+    "modName": "heavy_caliber",
+    "hotness": 0.18211143695014662
   },
   {
-    "modName": "rolling_guard",
-    "hotness": 3230
-  },
-  {
-    "modName": "primed_target_cracker",
-    "hotness": 3096
-  },
-  {
-    "modName": "magnum_force",
-    "hotness": 2697
-  },
-  {
-    "modName": "primed_flow",
-    "hotness": 2640
-  },
-  {
-    "modName": "primed_ravage",
-    "hotness": 2620
-  },
-  {
-    "modName": "primed_point_blank",
-    "hotness": 2415
-  },
-  {
-    "modName": "archon_continuity",
-    "hotness": 2356
-  },
-  {
-    "modName": "archon_intensify",
-    "hotness": 2175
-  },
-  {
-    "modName": "galvanized_shot",
-    "hotness": 2150
-  },
-  {
-    "modName": "galvanized_hell",
-    "hotness": 2132
-  },
-  {
-    "modName": "primed_pressure_point",
-    "hotness": 2079
-  },
-  {
-    "modName": "ancient_fusion_core",
-    "hotness": 2001
+    "modName": "blood_rush",
+    "hotness": 0.16392961876832846
   },
   {
     "modName": "equilibrium",
-    "hotness": 1950
+    "hotness": 0.12179863147605083
   },
   {
-    "modName": "primed_charged_shell",
-    "hotness": 1950
+    "modName": "galvanized_aptitude",
+    "hotness": 0.10400782013685239
   },
   {
-    "modName": "primed_heated_charge",
-    "hotness": 1936
+    "modName": "archon_stretch",
+    "hotness": 0.09530791788856305
   },
   {
-    "modName": "primed_chilling_grasp",
-    "hotness": 1920
-  },
-  {
-    "modName": "preparation",
-    "hotness": 1881
-  },
-  {
-    "modName": "primed_fever_strike",
-    "hotness": 1853
-  },
-  {
-    "modName": "wise_razor",
-    "hotness": 1768
-  },
-  {
-    "modName": "primed_firestorm",
-    "hotness": 1760
-  },
-  {
-    "modName": "galvanized_acceleration",
-    "hotness": 1700
-  },
-  {
-    "modName": "shell_shock",
-    "hotness": 1615
-  },
-  {
-    "modName": "primed_cryo_rounds",
-    "hotness": 1534
-  },
-  {
-    "modName": "primed_reach",
-    "hotness": 1520
+    "modName": "archon_vitality",
+    "hotness": 0.08431085043988269
   },
   {
     "modName": "galvanized_diffusion",
-    "hotness": 1476
+    "hotness": 0.07937438905180841
   },
   {
-    "modName": "hyperion_thrusters",
-    "hotness": 1330
-  },
-  {
-    "modName": "critical_delay",
-    "hotness": 1246
-  },
-  {
-    "modName": "galvanized_savvy",
-    "hotness": 1218
-  },
-  {
-    "modName": "primed_expel_corrupted",
-    "hotness": 1160
-  },
-  {
-    "modName": "primed_cleanse_corrupted",
-    "hotness": 1125
-  },
-  {
-    "modName": "overextended",
-    "hotness": 1095
-  },
-  {
-    "modName": "augur_secrets",
-    "hotness": 1078
-  },
-  {
-    "modName": "primed_cleanse_grineer",
-    "hotness": 1072
-  },
-  {
-    "modName": "frostbite",
-    "hotness": 1023
-  },
-  {
-    "modName": "primed_cleanse_corpus",
-    "hotness": 1000
-  },
-  {
-    "modName": "critical_deceleration",
-    "hotness": 962
-  },
-  {
-    "modName": "fleeting_expertise",
-    "hotness": 957
-  },
-  {
-    "modName": "toxic_flight",
-    "hotness": 936
-  },
-  {
-    "modName": "condition_overload",
-    "hotness": 900
-  },
-  {
-    "modName": "primed_pistol_gambit",
-    "hotness": 888
-  },
-  {
-    "modName": "augur_reach",
-    "hotness": 840
+    "modName": "magnum_force",
+    "hotness": 0.07709351580319322
   },
   {
     "modName": "bite",
-    "hotness": 824
+    "hotness": 0.06647116324535679
   },
   {
-    "modName": "primed_rifle_ammo_mutation",
-    "hotness": 812
+    "modName": "galvanized_savvy",
+    "hotness": 0.0635386119257087
   },
   {
-    "modName": "brief_respite",
-    "hotness": 806
-  },
-  {
-    "modName": "gladiator_might",
-    "hotness": 798
-  },
-  {
-    "modName": "primed_continuity",
-    "hotness": 770
-  },
-  {
-    "modName": "blaze",
-    "hotness": 756
-  },
-  {
-    "modName": "primed_smite_grineer",
-    "hotness": 735
-  },
-  {
-    "modName": "aerodynamic",
-    "hotness": 726
-  },
-  {
-    "modName": "primed_pack_leader",
-    "hotness": 720
-  },
-  {
-    "modName": "vigorous_swap",
-    "hotness": 720
-  },
-  {
-    "modName": "true_punishment",
-    "hotness": 676
-  },
-  {
-    "modName": "galvanized_scope",
-    "hotness": 675
-  },
-  {
-    "modName": "healing_return",
-    "hotness": 665
-  },
-  {
-    "modName": "vile_acceleration",
-    "hotness": 640
-  },
-  {
-    "modName": "forward_artillery",
-    "hotness": 624
-  },
-  {
-    "modName": "primed_bane_of_grineer",
-    "hotness": 600
-  },
-  {
-    "modName": "galvanized_crosshairs",
-    "hotness": 595
-  },
-  {
-    "modName": "link_health",
-    "hotness": 594
-  },
-  {
-    "modName": "corrosive_projection",
-    "hotness": 575
-  },
-  {
-    "modName": "primed_rubedo_lined_barrel",
-    "hotness": 575
-  },
-  {
-    "modName": "lethal_torrent",
-    "hotness": 572
-  },
-  {
-    "modName": "death_blossom",
-    "hotness": 560
-  },
-  {
-    "modName": "saxum_spittle",
-    "hotness": 550
-  },
-  {
-    "modName": "weeping_wounds",
-    "hotness": 540
-  },
-  {
-    "modName": "primed_ammo_stock",
-    "hotness": 525
-  },
-  {
-    "modName": "primed_tactical_pump",
-    "hotness": 520
-  },
-  {
-    "modName": "power_donation",
-    "hotness": 496
-  },
-  {
-    "modName": "primed_animal_instinct",
-    "hotness": 495
-  },
-  {
-    "modName": "primed_expel_corpus",
-    "hotness": 484
-  },
-  {
-    "modName": "rime_rounds",
-    "hotness": 480
-  },
-  {
-    "modName": "primed_shotgun_ammo_mutation",
-    "hotness": 477
-  },
-  {
-    "modName": "system_reroute",
-    "hotness": 465
-  },
-  {
-    "modName": "hunter_munitions",
-    "hotness": 462
-  },
-  {
-    "modName": "bleeding_edge",
-    "hotness": 460
-  },
-  {
-    "modName": "tek_assault",
-    "hotness": 460
-  },
-  {
-    "modName": "dual_rounds",
-    "hotness": 450
-  },
-  {
-    "modName": "primed_smite_infested",
-    "hotness": 450
-  },
-  {
-    "modName": "link_shields",
-    "hotness": 441
-  },
-  {
-    "modName": "power_drift",
-    "hotness": 441
-  },
-  {
-    "modName": "primed_smite_corrupted",
-    "hotness": 420
-  },
-  {
-    "modName": "constitution",
-    "hotness": 416
-  },
-  {
-    "modName": "primed_bane_of_corpus",
-    "hotness": 402
-  },
-  {
-    "modName": "pilfering_strangledome",
-    "hotness": 390
-  },
-  {
-    "modName": "synth_fiber",
-    "hotness": 384
-  },
-  {
-    "modName": "coaction_drift",
-    "hotness": 372
-  },
-  {
-    "modName": "seeker_volley",
-    "hotness": 372
+    "modName": "galvanized_hell",
+    "hotness": 0.06272401433691756
   },
   {
     "modName": "link_armor",
-    "hotness": 366
+    "hotness": 0.056109481915933526
   },
   {
-    "modName": "kavats_grace",
-    "hotness": 360
+    "modName": "archon_flow",
+    "hotness": 0.056085043988269793
   },
   {
-    "modName": "necramech_thrusters",
-    "hotness": 360
+    "modName": "critical_deceleration",
+    "hotness": 0.05405669599217986
   },
   {
-    "modName": "primed_chamber",
-    "hotness": 360
+    "modName": "healing_return",
+    "hotness": 0.05246008471814923
   },
   {
-    "modName": "saxum_carapace",
-    "hotness": 357
+    "modName": "hyperion_thrusters",
+    "hotness": 0.052003910068426196
   },
   {
-    "modName": "necramech_streamline",
-    "hotness": 352
+    "modName": "archon_intensify",
+    "hotness": 0.05029325513196481
   },
   {
-    "modName": "cleanse_corrupted",
-    "hotness": 350
+    "modName": "ancient_fusion_core",
+    "hotness": 0.04890029325513196
   },
   {
-    "modName": "accumulating_whipclaw",
-    "hotness": 336
+    "modName": "lethal_torrent",
+    "hotness": 0.04626914304333659
   },
   {
-    "modName": "primed_magazine_warp",
-    "hotness": 330
+    "modName": "link_health",
+    "hotness": 0.04408602150537634
   },
   {
-    "modName": "quickdraw",
-    "hotness": 325
+    "modName": "gladiator_might",
+    "hotness": 0.04398826979472141
   },
   {
-    "modName": "critical_focus",
-    "hotness": 324
+    "modName": "galvanized_acceleration",
+    "hotness": 0.043792766373411535
   },
   {
-    "modName": "energy_conversion",
-    "hotness": 320
+    "modName": "augur_reach",
+    "hotness": 0.04252199413489736
   },
   {
-    "modName": "natural_talent",
-    "hotness": 320
-  },
-  {
-    "modName": "jolt",
-    "hotness": 315
-  },
-  {
-    "modName": "energy_siphon",
-    "hotness": 312
-  },
-  {
-    "modName": "vigilante_supplies",
-    "hotness": 310
-  },
-  {
-    "modName": "crimson_fugue",
-    "hotness": 306
-  },
-  {
-    "modName": "buzz_kill",
-    "hotness": 304
-  },
-  {
-    "modName": "efficient_beams",
-    "hotness": 300
-  },
-  {
-    "modName": "kinetic_diversion",
-    "hotness": 300
-  },
-  {
-    "modName": "ballista_measure",
-    "hotness": 290
-  },
-  {
-    "modName": "necramech_redirection",
-    "hotness": 288
-  },
-  {
-    "modName": "internal_bleeding",
-    "hotness": 286
-  },
-  {
-    "modName": "primed_bane_of_corrupted",
-    "hotness": 285
-  },
-  {
-    "modName": "anemic_agility",
-    "hotness": 279
-  },
-  {
-    "modName": "strain_infection",
-    "hotness": 262
-  },
-  {
-    "modName": "sure_footed",
-    "hotness": 261
-  },
-  {
-    "modName": "explosive_legerdemain",
-    "hotness": 260
-  },
-  {
-    "modName": "automatic_trigger",
-    "hotness": 255
-  },
-  {
-    "modName": "enemy_radar",
-    "hotness": 253
-  },
-  {
-    "modName": "hemorrhage",
-    "hotness": 252
-  },
-  {
-    "modName": "synth_deconstruct",
-    "hotness": 252
-  },
-  {
-    "modName": "primed_morphic_transformer",
-    "hotness": 250
-  },
-  {
-    "modName": "berserker",
-    "hotness": 240
-  },
-  {
-    "modName": "primed_heavy_trauma",
-    "hotness": 234
-  },
-  {
-    "modName": "primed_smite_corpus",
-    "hotness": 232
-  },
-  {
-    "modName": "reflex_guard",
-    "hotness": 232
-  },
-  {
-    "modName": "growing_power",
-    "hotness": 230
-  },
-  {
-    "modName": "primed_quickdraw",
-    "hotness": 230
-  },
-  {
-    "modName": "scattering_inferno",
-    "hotness": 228
-  },
-  {
-    "modName": "bullet_dance",
-    "hotness": 225
-  },
-  {
-    "modName": "shell_rush",
-    "hotness": 224
-  },
-  {
-    "modName": "vermillion_storm",
-    "hotness": 224
-  },
-  {
-    "modName": "maul",
-    "hotness": 222
-  },
-  {
-    "modName": "energizing_shot",
-    "hotness": 220
-  },
-  {
-    "modName": "primed_bane_of_infested",
-    "hotness": 220
-  },
-  {
-    "modName": "primed_fulmination",
-    "hotness": 220
-  },
-  {
-    "modName": "vicious_frost",
-    "hotness": 220
-  },
-  {
-    "modName": "guardian_derision",
-    "hotness": 216
-  },
-  {
-    "modName": "warhead",
-    "hotness": 213
-  },
-  {
-    "modName": "exposing_harpoon",
-    "hotness": 212
-  },
-  {
-    "modName": "particle_ram",
-    "hotness": 212
-  },
-  {
-    "modName": "primed_regen",
-    "hotness": 212
-  },
-  {
-    "modName": "bursting_mass",
-    "hotness": 210
-  },
-  {
-    "modName": "creeping_bullseye",
-    "hotness": 210
-  },
-  {
-    "modName": "detect_vulnerability",
-    "hotness": 210
-  },
-  {
-    "modName": "reactive_storm",
-    "hotness": 210
-  },
-  {
-    "modName": "vigilante_armaments",
-    "hotness": 209
-  },
-  {
-    "modName": "medi_ray",
-    "hotness": 208
-  },
-  {
-    "modName": "despoil",
-    "hotness": 200
-  },
-  {
-    "modName": "necramech_repair",
-    "hotness": 200
-  },
-  {
-    "modName": "necramech_steel_fiber",
-    "hotness": 200
-  },
-  {
-    "modName": "searing_steel",
-    "hotness": 200
-  },
-  {
-    "modName": "spectrosiphon",
-    "hotness": 196
-  },
-  {
-    "modName": "cunning_drift",
-    "hotness": 192
-  },
-  {
-    "modName": "fused_reservoir",
-    "hotness": 192
-  },
-  {
-    "modName": "health_conversion",
-    "hotness": 190
-  },
-  {
-    "modName": "stalking_fan",
-    "hotness": 187
-  },
-  {
-    "modName": "repelling_bastille",
-    "hotness": 186
-  },
-  {
-    "modName": "quickening",
-    "hotness": 184
-  },
-  {
-    "modName": "primed_expel_grineer",
-    "hotness": 180
-  },
-  {
-    "modName": "steel_charge",
-    "hotness": 180
-  },
-  {
-    "modName": "phoenix_blaze",
-    "hotness": 175
-  },
-  {
-    "modName": "provoked",
-    "hotness": 174
-  },
-  {
-    "modName": "sharpshooter",
-    "hotness": 170
-  },
-  {
-    "modName": "gladiator_resolve",
-    "hotness": 169
-  },
-  {
-    "modName": "augur_seeker",
-    "hotness": 168
-  },
-  {
-    "modName": "frigid_blast",
-    "hotness": 165
-  },
-  {
-    "modName": "primed_pistol_ammo_mutation",
-    "hotness": 163
-  },
-  {
-    "modName": "corrupt_charge",
-    "hotness": 162
-  },
-  {
-    "modName": "amars_hatred",
-    "hotness": 160
-  },
-  {
-    "modName": "combat_reload",
-    "hotness": 160
-  },
-  {
-    "modName": "jugulus_carapace",
-    "hotness": 160
-  },
-  {
-    "modName": "necramech_aviator",
-    "hotness": 159
-  },
-  {
-    "modName": "malignant_force",
-    "hotness": 154
-  },
-  {
-    "modName": "virulent_scourge",
-    "hotness": 154
-  },
-  {
-    "modName": "ballistic_bullseye",
-    "hotness": 152
-  },
-  {
-    "modName": "chromatic_blade",
-    "hotness": 150
-  },
-  {
-    "modName": "rubble_heap",
-    "hotness": 150
-  },
-  {
-    "modName": "turret_velocity",
-    "hotness": 150
-  },
-  {
-    "modName": "blending_talons",
-    "hotness": 144
-  },
-  {
-    "modName": "null_audit",
-    "hotness": 144
-  },
-  {
-    "modName": "piercing_hit",
-    "hotness": 144
-  },
-  {
-    "modName": "pointed_wind",
-    "hotness": 144
-  },
-  {
-    "modName": "sovereign_outcast",
-    "hotness": 144
-  },
-  {
-    "modName": "vital_sense",
-    "hotness": 144
-  },
-  {
-    "modName": "smite_corrupted",
-    "hotness": 140
-  },
-  {
-    "modName": "transfusion",
-    "hotness": 140
-  },
-  {
-    "modName": "primed_cleanse_infested",
-    "hotness": 139
-  },
-  {
-    "modName": "chilling_reload",
-    "hotness": 138
-  },
-  {
-    "modName": "continuity",
-    "hotness": 135
-  },
-  {
-    "modName": "necramech_augur",
-    "hotness": 135
-  },
-  {
-    "modName": "tempo_royale",
-    "hotness": 135
-  },
-  {
-    "modName": "endoparasitic_vector",
-    "hotness": 134
-  },
-  {
-    "modName": "reflect",
-    "hotness": 133
-  },
-  {
-    "modName": "split_chamber",
-    "hotness": 133
-  },
-  {
-    "modName": "meticulous_aim",
-    "hotness": 132
-  },
-  {
-    "modName": "spoiled_strike",
-    "hotness": 132
-  },
-  {
-    "modName": "vigilante_offense",
-    "hotness": 132
-  },
-  {
-    "modName": "mending_shot",
-    "hotness": 131
-  },
-  {
-    "modName": "hunter_adrenaline",
-    "hotness": 130
-  },
-  {
-    "modName": "necramech_rage",
-    "hotness": 130
-  },
-  {
-    "modName": "cyclone_kraken",
-    "hotness": 129
-  },
-  {
-    "modName": "primed_sniper_ammo_mutation",
-    "hotness": 129
-  },
-  {
-    "modName": "crushing_ruin",
-    "hotness": 126
-  },
-  {
-    "modName": "dizzying_rounds",
-    "hotness": 125
-  },
-  {
-    "modName": "split_flights",
-    "hotness": 123
-  },
-  {
-    "modName": "fracturing_crush",
-    "hotness": 120
-  },
-  {
-    "modName": "furious_javelin",
-    "hotness": 120
-  },
-  {
-    "modName": "gale_kick",
-    "hotness": 120
-  },
-  {
-    "modName": "greedy_pull",
-    "hotness": 120
-  },
-  {
-    "modName": "hearty_nourishment",
-    "hotness": 120
-  },
-  {
-    "modName": "ice_spring",
-    "hotness": 120
-  },
-  {
-    "modName": "primed_slip_magazine",
-    "hotness": 120
-  },
-  {
-    "modName": "razorwing_blitz",
-    "hotness": 120
-  },
-  {
-    "modName": "cold_snap",
-    "hotness": 117
-  },
-  {
-    "modName": "firewalker",
-    "hotness": 116
-  },
-  {
-    "modName": "titanic_rumbler",
-    "hotness": 116
-  },
-  {
-    "modName": "sanctuary",
-    "hotness": 114
-  },
-  {
-    "modName": "swift_bite",
-    "hotness": 114
-  },
-  {
-    "modName": "astral_twilight",
-    "hotness": 112
-  },
-  {
-    "modName": "boreals_hatred",
-    "hotness": 112
-  },
-  {
-    "modName": "peculiar_bloom",
-    "hotness": 112
-  },
-  {
-    "modName": "shelter",
-    "hotness": 111
-  },
-  {
-    "modName": "perfect_balance",
-    "hotness": 110
-  },
-  {
-    "modName": "hypothermic_shell",
-    "hotness": 108
-  },
-  {
-    "modName": "razor_shot",
-    "hotness": 108
-  },
-  {
-    "modName": "tainted_shell",
-    "hotness": 108
-  },
-  {
-    "modName": "vicious_spread",
-    "hotness": 108
-  },
-  {
-    "modName": "fanged_fusillade",
-    "hotness": 105
-  },
-  {
-    "modName": "ambush_optics_(rubico)",
-    "hotness": 104
-  },
-  {
-    "modName": "blackout_pulse",
-    "hotness": 104
-  },
-  {
-    "modName": "pistol_scavenger",
-    "hotness": 102
-  },
-  {
-    "modName": "primed_fast_hands",
-    "hotness": 102
-  },
-  {
-    "modName": "purifying_flames",
-    "hotness": 102
-  },
-  {
-    "modName": "vitality",
-    "hotness": 102
-  },
-  {
-    "modName": "combo_killer",
-    "hotness": 100
-  },
-  {
-    "modName": "speed_holster",
-    "hotness": 100
-  },
-  {
-    "modName": "precision_strike",
-    "hotness": 100
-  },
-  {
-    "modName": "shock_trooper",
-    "hotness": 100
-  },
-  {
-    "modName": "venom_dose",
-    "hotness": 100
-  },
-  {
-    "modName": "cataclysmic_continuum",
-    "hotness": 99
-  },
-  {
-    "modName": "void_hole",
-    "hotness": 97
-  },
-  {
-    "modName": "combat_discipline",
-    "hotness": 96
-  },
-  {
-    "modName": "electrified_barrel",
-    "hotness": 96
-  },
-  {
-    "modName": "mecha_overdrive",
-    "hotness": 96
-  },
-  {
-    "modName": "necramech_flow",
-    "hotness": 96
-  },
-  {
-    "modName": "slip_magazine",
-    "hotness": 96
-  },
-  {
-    "modName": "hollowed_bullets",
-    "hotness": 95
-  },
-  {
-    "modName": "juice",
-    "hotness": 95
-  },
-  {
-    "modName": "lightning_dash",
-    "hotness": 95
-  },
-  {
-    "modName": "hastened_deflection",
-    "hotness": 93
-  },
-  {
-    "modName": "toxic_barrage",
-    "hotness": 92
-  },
-  {
-    "modName": "intensify",
-    "hotness": 91
-  },
-  {
-    "modName": "emp_aura",
-    "hotness": 90
-  },
-  {
-    "modName": "flow",
-    "hotness": 90
-  },
-  {
-    "modName": "fortitude",
-    "hotness": 90
-  },
-  {
-    "modName": "niras_hatred",
-    "hotness": 90
-  },
-  {
-    "modName": "ordnance_cheap_shot",
-    "hotness": 90
-  },
-  {
-    "modName": "primed_expel_infested",
-    "hotness": 90
-  },
-  {
-    "modName": "rapid_resilience",
-    "hotness": 90
-  },
-  {
-    "modName": "spring_loaded_chamber",
-    "hotness": 90
-  },
-  {
-    "modName": "tainted_mag",
-    "hotness": 89
-  },
-  {
-    "modName": "augur_accord",
-    "hotness": 88
-  },
-  {
-    "modName": "energy_amplifier",
-    "hotness": 88
-  },
-  {
-    "modName": "infected_clip",
-    "hotness": 88
-  },
-  {
-    "modName": "infiltrate",
-    "hotness": 88
-  },
-  {
-    "modName": "malicious_raptor",
-    "hotness": 88
-  },
-  {
-    "modName": "amars_contempt",
-    "hotness": 84
-  },
-  {
-    "modName": "dead_eye",
-    "hotness": 84
-  },
-  {
-    "modName": "heated_charge",
-    "hotness": 84
-  },
-  {
-    "modName": "ironclad_charge",
-    "hotness": 84
-  },
-  {
-    "modName": "niras_contempt",
-    "hotness": 84
-  },
-  {
-    "modName": "volatile_rebound",
-    "hotness": 84
-  },
-  {
-    "modName": "eternal_war",
-    "hotness": 81
-  },
-  {
-    "modName": "counter_pulse",
-    "hotness": 80
-  },
-  {
-    "modName": "double_tap",
-    "hotness": 80
-  },
-  {
-    "modName": "mecha_empowered",
-    "hotness": 80
-  },
-  {
-    "modName": "mesas_waltz",
-    "hotness": 78
-  },
-  {
-    "modName": "redirection",
-    "hotness": 78
-  },
-  {
-    "modName": "voltaic_strike",
-    "hotness": 78
-  },
-  {
-    "modName": "vile_discharge",
-    "hotness": 77
-  },
-  {
-    "modName": "ammo_drum",
-    "hotness": 76
-  },
-  {
-    "modName": "bore",
-    "hotness": 76
-  },
-  {
-    "modName": "protect",
-    "hotness": 76
-  },
-  {
-    "modName": "serration",
-    "hotness": 76
-  },
-  {
-    "modName": "eject_magazine",
-    "hotness": 75
-  },
-  {
-    "modName": "scorch",
-    "hotness": 75
-  },
-  {
-    "modName": "vapor_trail",
-    "hotness": 75
-  },
-  {
-    "modName": "cruising_speed",
-    "hotness": 73
-  },
-  {
-    "modName": "cutting_edge",
-    "hotness": 73
-  },
-  {
-    "modName": "embedded_catalyzer",
-    "hotness": 72
-  },
-  {
-    "modName": "flow_burn",
-    "hotness": 72
-  },
-  {
-    "modName": "frost_jaw",
-    "hotness": 72
-  },
-  {
-    "modName": "hornet_strike",
-    "hotness": 72
-  },
-  {
-    "modName": "neutron_star",
-    "hotness": 72
-  },
-  {
-    "modName": "shield_of_shadows",
-    "hotness": 72
-  },
-  {
-    "modName": "swift_momentum",
-    "hotness": 72
-  },
-  {
-    "modName": "cautious_shot",
-    "hotness": 70
-  },
-  {
-    "modName": "contamination_casing",
-    "hotness": 70
-  },
-  {
-    "modName": "cryo_coating",
-    "hotness": 70
-  },
-  {
-    "modName": "gourmand",
-    "hotness": 70
-  },
-  {
-    "modName": "swooping_falcon",
-    "hotness": 70
-  },
-  {
-    "modName": "vampire_leech",
-    "hotness": 70
-  },
-  {
-    "modName": "amars_anguish",
-    "hotness": 69
+    "modName": "galvanized_shot",
+    "hotness": 0.03877484522645813
   },
   {
     "modName": "hydraulic_crosshairs",
-    "hotness": 66
+    "hotness": 0.034408602150537634
   },
   {
-    "modName": "raider_matrix",
-    "hotness": 66
+    "modName": "archon_continuity",
+    "hotness": 0.03306451612903226
   },
   {
-    "modName": "savage_silence",
-    "hotness": 66
+    "modName": "brief_respite",
+    "hotness": 0.032404692082111435
   },
   {
-    "modName": "gladiator_vice",
-    "hotness": 65
+    "modName": "bleeding_edge",
+    "hotness": 0.030889540566959924
   },
   {
-    "modName": "quick_thinking",
-    "hotness": 65
+    "modName": "amars_hatred",
+    "hotness": 0.030498533724340176
   },
   {
-    "modName": "vigilante_pursuit",
-    "hotness": 65
+    "modName": "galvanized_scope",
+    "hotness": 0.03046594982078853
   },
   {
-    "modName": "beguiling_lantern",
-    "hotness": 64
+    "modName": "boreals_hatred",
+    "hotness": 0.029227761485826002
   },
   {
-    "modName": "rage",
-    "hotness": 64
+    "modName": "augur_secrets",
+    "hotness": 0.02867383512544803
   },
   {
-    "modName": "stinging_thorn",
-    "hotness": 64
+    "modName": "maul",
+    "hotness": 0.028396871945259042
   },
   {
-    "modName": "thrall_pact",
-    "hotness": 64
+    "modName": "galvanized_crosshairs",
+    "hotness": 0.025741283805799934
   },
   {
-    "modName": "augur_message",
-    "hotness": 63
+    "modName": "corrosive_projection",
+    "hotness": 0.025659824046920823
   },
   {
-    "modName": "battle_stations",
-    "hotness": 63
+    "modName": "condition_overload",
+    "hotness": 0.023655913978494623
   },
   {
-    "modName": "eroding_blight",
-    "hotness": 63
+    "modName": "hunter_munitions",
+    "hotness": 0.02267839687194526
   },
   {
-    "modName": "focus_energy",
-    "hotness": 63
+    "modName": "critical_delay",
+    "hotness": 0.02186379928315412
   },
   {
-    "modName": "twirling_spire",
-    "hotness": 63
+    "modName": "frigid_blast",
+    "hotness": 0.021049201694362984
   },
   {
-    "modName": "aerial_ace",
-    "hotness": 62
+    "modName": "blackout_pulse",
+    "hotness": 0.0184099055066797
   },
   {
-    "modName": "damzav_vati",
-    "hotness": 61
+    "modName": "frostbite",
+    "hotness": 0.017595307917888565
   },
   {
-    "modName": "barrel_diffusion",
-    "hotness": 60
+    "modName": "hunter_adrenaline",
+    "hotness": 0.017595307917888565
   },
   {
-    "modName": "boreals_anguish",
-    "hotness": 60
+    "modName": "link_shields",
+    "hotness": 0.017204301075268817
   },
   {
-    "modName": "eagle_eye",
-    "hotness": 60
+    "modName": "fleeting_expertise",
+    "hotness": 0.017008797653958945
   },
   {
-    "modName": "empowered_blades",
-    "hotness": 60
+    "modName": "kavats_grace",
+    "hotness": 0.015640273704789834
   },
   {
-    "modName": "mark_of_the_beast",
-    "hotness": 60
+    "modName": "internal_bleeding",
+    "hotness": 0.015477354187031606
   },
   {
-    "modName": "marked_target",
-    "hotness": 60
+    "modName": "corrupt_charge",
+    "hotness": 0.014988595633756924
   },
   {
-    "modName": "ravage",
-    "hotness": 60
+    "modName": "aerodynamic",
+    "hotness": 0.014597588791137178
   },
   {
-    "modName": "regenerative_molt",
-    "hotness": 60
-  },
-  {
-    "modName": "rejuvenation",
-    "hotness": 60
-  },
-  {
-    "modName": "repeater_clip",
-    "hotness": 60
-  },
-  {
-    "modName": "sabot_rounds",
-    "hotness": 60
-  },
-  {
-    "modName": "streamline",
-    "hotness": 60
-  },
-  {
-    "modName": "tether",
-    "hotness": 60
-  },
-  {
-    "modName": "enduring_strike",
-    "hotness": 58
-  },
-  {
-    "modName": "reflex_denial",
-    "hotness": 57
-  },
-  {
-    "modName": "sweeping_serration",
-    "hotness": 57
+    "modName": "health_conversion",
+    "hotness": 0.013978494623655914
   },
   {
     "modName": "carnis_stinger",
-    "hotness": 56
+    "hotness": 0.013848159009449332
   },
   {
-    "modName": "molecular_fission",
-    "hotness": 56
-  },
-  {
-    "modName": "sinking_talon",
-    "hotness": 56
-  },
-  {
-    "modName": "controlled_slide",
-    "hotness": 55
-  },
-  {
-    "modName": "defensive_fire",
-    "hotness": 55
-  },
-  {
-    "modName": "niras_anguish",
-    "hotness": 55
-  },
-  {
-    "modName": "pistol_amp",
-    "hotness": 55
-  },
-  {
-    "modName": "shotgun_amp",
-    "hotness": 55
-  },
-  {
-    "modName": "skull_shots_(viper)",
-    "hotness": 55
-  },
-  {
-    "modName": "gladiator_aegis",
-    "hotness": 54
-  },
-  {
-    "modName": "howl",
-    "hotness": 54
-  },
-  {
-    "modName": "iron_phoenix",
-    "hotness": 54
-  },
-  {
-    "modName": "breach_loader",
-    "hotness": 53
-  },
-  {
-    "modName": "blood_forge",
-    "hotness": 52
-  },
-  {
-    "modName": "enemy_sense",
-    "hotness": 52
-  },
-  {
-    "modName": "lightning_rod",
-    "hotness": 52
-  },
-  {
-    "modName": "necramech_slipstream",
-    "hotness": 52
-  },
-  {
-    "modName": "rift_strike",
-    "hotness": 52
-  },
-  {
-    "modName": "soul_survivor",
-    "hotness": 52
-  },
-  {
-    "modName": "speed_drift",
-    "hotness": 52
-  },
-  {
-    "modName": "tactical_reload",
-    "hotness": 52
-  },
-  {
-    "modName": "shock_collar",
-    "hotness": 51
-  },
-  {
-    "modName": "flame_gland",
-    "hotness": 50
-  },
-  {
-    "modName": "jugulus_spines",
-    "hotness": 50
-  },
-  {
-    "modName": "shotgun_spazz",
-    "hotness": 50
-  },
-  {
-    "modName": "tectonic_fracture",
-    "hotness": 50
+    "modName": "augur_message",
+    "hotness": 0.013196480938416423
   },
   {
     "modName": "boreals_contempt",
-    "hotness": 49
+    "hotness": 0.013196480938416423
   },
   {
-    "modName": "metal_fiber",
-    "hotness": 49
+    "modName": "martyr_symbiosis",
+    "hotness": 0.013033561420658195
   },
   {
-    "modName": "ordnance_velocity",
-    "hotness": 49
+    "modName": "energy_siphon",
+    "hotness": 0.012903225806451613
   },
   {
-    "modName": "sniper_scavenger",
-    "hotness": 49
+    "modName": "dual_rounds",
+    "hotness": 0.01270772238514174
   },
   {
-    "modName": "depleted_reload",
-    "hotness": 48
+    "modName": "coaction_drift",
+    "hotness": 0.012512218963831867
   },
   {
-    "modName": "gleaming_blight",
-    "hotness": 48
+    "modName": "juice",
+    "hotness": 0.012121212121212121
   },
   {
-    "modName": "ice_storm",
-    "hotness": 48
+    "modName": "astral_twilight",
+    "hotness": 0.012056044314108831
   },
   {
-    "modName": "overview",
-    "hotness": 48
+    "modName": "explosive_legerdemain",
+    "hotness": 0.012056044314108831
   },
   {
-    "modName": "smoke_shadow",
-    "hotness": 48
+    "modName": "combat_discipline",
+    "hotness": 0.011730205278592375
   },
   {
-    "modName": "volatile_quick_return",
-    "hotness": 48
+    "modName": "energy_conversion",
+    "hotness": 0.011730205278592375
   },
   {
-    "modName": "agile_aim",
-    "hotness": 47
+    "modName": "jugulus_carapace",
+    "hotness": 0.011730205278592375
   },
   {
-    "modName": "brain_storm_(grakata)",
-    "hotness": 46
+    "modName": "mecha_overdrive",
+    "hotness": 0.011730205278592375
   },
   {
-    "modName": "necramech_hydraulics",
-    "hotness": 46
+    "modName": "electrified_barrel",
+    "hotness": 0.011436950146627566
   },
   {
-    "modName": "retrieve",
-    "hotness": 46
+    "modName": "automatic_trigger",
+    "hotness": 0.010948191593352884
   },
   {
-    "modName": "concentrated_arrow",
-    "hotness": 45
+    "modName": "augur_seeker",
+    "hotness": 0.010752688172043012
   },
   {
-    "modName": "gladiator_finesse",
-    "hotness": 45
+    "modName": "growing_power",
+    "hotness": 0.010589768654284784
   },
   {
-    "modName": "lasting_sting",
-    "hotness": 45
+    "modName": "anemic_agility",
+    "hotness": 0.010426849136526556
   },
   {
-    "modName": "lethal_momentum",
-    "hotness": 45
+    "modName": "amars_anguish",
+    "hotness": 0.009775171065493646
   },
   {
-    "modName": "peaceful_provocation",
-    "hotness": 45
-  },
-  {
-    "modName": "sprint_boost",
-    "hotness": 45
-  },
-  {
-    "modName": "vigor",
-    "hotness": 45
-  },
-  {
-    "modName": "calculated_redirection",
-    "hotness": 44
-  },
-  {
-    "modName": "high_voltage",
-    "hotness": 44
-  },
-  {
-    "modName": "swipe",
-    "hotness": 44
-  },
-  {
-    "modName": "chilling_globe",
-    "hotness": 42
-  },
-  {
-    "modName": "drifting_contact",
-    "hotness": 42
-  },
-  {
-    "modName": "exothermic",
-    "hotness": 42
-  },
-  {
-    "modName": "firestorm",
-    "hotness": 42
-  },
-  {
-    "modName": "gladiator_rush",
-    "hotness": 42
-  },
-  {
-    "modName": "mecha_pulse",
-    "hotness": 42
-  },
-  {
-    "modName": "silent_battery",
-    "hotness": 42
-  },
-  {
-    "modName": "slicing_feathers",
-    "hotness": 42
-  },
-  {
-    "modName": "auxiliary_power",
-    "hotness": 40
-  },
-  {
-    "modName": "bleeding_willow",
-    "hotness": 40
-  },
-  {
-    "modName": "body_count",
-    "hotness": 40
-  },
-  {
-    "modName": "energy_generator",
-    "hotness": 40
-  },
-  {
-    "modName": "fury",
-    "hotness": 40
-  },
-  {
-    "modName": "infested_impedance",
-    "hotness": 40
-  },
-  {
-    "modName": "neutralize",
-    "hotness": 40
-  },
-  {
-    "modName": "pathogen_rounds",
-    "hotness": 40
-  },
-  {
-    "modName": "reawaken",
-    "hotness": 40
-  },
-  {
-    "modName": "seeking_shuriken",
-    "hotness": 40
-  },
-  {
-    "modName": "thermite_rounds",
-    "hotness": 40
-  },
-  {
-    "modName": "venom_teeth",
-    "hotness": 40
-  },
-  {
-    "modName": "wild_frenzy",
-    "hotness": 40
-  },
-  {
-    "modName": "zazvat_kar",
-    "hotness": 40
-  },
-  {
-    "modName": "charged_bullets",
-    "hotness": 39
-  },
-  {
-    "modName": "empowered_quiver",
-    "hotness": 39
-  },
-  {
-    "modName": "form_up",
-    "hotness": 39
-  },
-  {
-    "modName": "pounce",
-    "hotness": 39
-  },
-  {
-    "modName": "abating_link",
-    "hotness": 38
-  },
-  {
-    "modName": "critical_precision",
-    "hotness": 38
-  },
-  {
-    "modName": "hysterical_assault",
-    "hotness": 38
-  },
-  {
-    "modName": "steel_fiber",
-    "hotness": 38
-  },
-  {
-    "modName": "focused_acceleration",
-    "hotness": 37
-  },
-  {
-    "modName": "sequence_burn",
-    "hotness": 37
-  },
-  {
-    "modName": "arrow_mutation",
-    "hotness": 36
-  },
-  {
-    "modName": "artillery_cheap_shot",
-    "hotness": 36
-  },
-  {
-    "modName": "enraged",
-    "hotness": 36
-  },
-  {
-    "modName": "iron_shrapnel",
-    "hotness": 36
-  },
-  {
-    "modName": "magnetized_discharge",
-    "hotness": 36
-  },
-  {
-    "modName": "mecha_recharge",
-    "hotness": 36
-  },
-  {
-    "modName": "melee_guidance",
-    "hotness": 36
-  },
-  {
-    "modName": "venomous_clip",
-    "hotness": 36
-  },
-  {
-    "modName": "volcanic_edge",
-    "hotness": 36
-  },
-  {
-    "modName": "balefire_surge",
-    "hotness": 35
-  },
-  {
-    "modName": "mind_freak",
-    "hotness": 35
-  },
-  {
-    "modName": "prolonged_paralysis",
-    "hotness": 35
-  },
-  {
-    "modName": "reflex_draw",
-    "hotness": 35
-  },
-  {
-    "modName": "static_discharge",
-    "hotness": 35
-  },
-  {
-    "modName": "swing_line",
-    "hotness": 35
-  },
-  {
-    "modName": "voltage_sequence",
-    "hotness": 35
-  },
-  {
-    "modName": "air_recon",
-    "hotness": 34
-  },
-  {
-    "modName": "catapult",
-    "hotness": 34
-  },
-  {
-    "modName": "piercing_caliber",
-    "hotness": 34
-  },
-  {
-    "modName": "pistol_pestilence",
-    "hotness": 34
-  },
-  {
-    "modName": "diamond_skin",
-    "hotness": 33
-  },
-  {
-    "modName": "enhanced_vitality",
-    "hotness": 33
-  },
-  {
-    "modName": "frail_momentum",
-    "hotness": 33
-  },
-  {
-    "modName": "mobilize",
-    "hotness": 33
-  },
-  {
-    "modName": "north_wind",
-    "hotness": 33
-  },
-  {
-    "modName": "photon_repeater",
-    "hotness": 33
-  },
-  {
-    "modName": "shattering_justice",
-    "hotness": 33
-  },
-  {
-    "modName": "hall_of_malevolence",
-    "hotness": 32
-  },
-  {
-    "modName": "healing_flame",
-    "hotness": 32
-  },
-  {
-    "modName": "lock_and_load",
-    "hotness": 32
-  },
-  {
-    "modName": "melee_prowess",
-    "hotness": 32
-  },
-  {
-    "modName": "rending_crane",
-    "hotness": 32
-  },
-  {
-    "modName": "strain_fever",
-    "hotness": 32
-  },
-  {
-    "modName": "viral_quills",
-    "hotness": 32
-  },
-  {
-    "modName": "warding_thurible",
-    "hotness": 32
-  },
-  {
-    "modName": "deadly_sequence",
-    "hotness": 31
-  },
-  {
-    "modName": "pacifying_bolts",
-    "hotness": 31
-  },
-  {
-    "modName": "stinging_truth",
-    "hotness": 31
-  },
-  {
-    "modName": "tidal_impunity",
-    "hotness": 31
-  },
-  {
-    "modName": "toxic_sequence",
-    "hotness": 31
-  },
-  {
-    "modName": "argon_scope",
-    "hotness": 30
-  },
-  {
-    "modName": "auger_strike",
-    "hotness": 30
-  },
-  {
-    "modName": "biting_frost",
-    "hotness": 30
-  },
-  {
-    "modName": "blazing_pillage",
-    "hotness": 30
-  },
-  {
-    "modName": "calm_and_frenzy",
-    "hotness": 30
-  },
-  {
-    "modName": "dread_ward",
-    "hotness": 30
-  },
-  {
-    "modName": "duality",
-    "hotness": 30
-  },
-  {
-    "modName": "fomorian_accelerant",
-    "hotness": 30
-  },
-  {
-    "modName": "necramech_efficiency",
-    "hotness": 30
-  },
-  {
-    "modName": "negation_swarm",
-    "hotness": 30
-  },
-  {
-    "modName": "quick_reload",
-    "hotness": 30
-  },
-  {
-    "modName": "rift_torrent",
-    "hotness": 30
-  },
-  {
-    "modName": "spring_loaded_blade",
-    "hotness": 30
-  },
-  {
-    "modName": "target_fixation",
-    "hotness": 30
-  },
-  {
-    "modName": "toxic_blight",
-    "hotness": 30
-  },
-  {
-    "modName": "vampiric_grasp",
-    "hotness": 30
-  },
-  {
-    "modName": "assault_mode",
-    "hotness": 29
-  },
-  {
-    "modName": "high_noon",
-    "hotness": 29
-  },
-  {
-    "modName": "seismic_wave",
-    "hotness": 29
-  },
-  {
-    "modName": "charged_shell",
-    "hotness": 28
-  },
-  {
-    "modName": "deep_freeze",
-    "hotness": 28
-  },
-  {
-    "modName": "necramech_drift",
-    "hotness": 28
-  },
-  {
-    "modName": "physique",
-    "hotness": 28
-  },
-  {
-    "modName": "stealth_drift",
-    "hotness": 28
-  },
-  {
-    "modName": "vengeful_revenant",
-    "hotness": 28
-  },
-  {
-    "modName": "zodiac_shred",
-    "hotness": 28
-  },
-  {
-    "modName": "ferocity",
-    "hotness": 27
-  },
-  {
-    "modName": "nano_applicator",
-    "hotness": 27
-  },
-  {
-    "modName": "vigilante_fervor",
-    "hotness": 27
-  },
-  {
-    "modName": "acid_shells",
-    "hotness": 26
-  },
-  {
-    "modName": "disarming_purity",
-    "hotness": 26
-  },
-  {
-    "modName": "homing_fang",
-    "hotness": 26
-  },
-  {
-    "modName": "hunters_bonesaw",
-    "hotness": 26
-  },
-  {
-    "modName": "ambush",
-    "hotness": 25
-  },
-  {
-    "modName": "contagious_spread",
-    "hotness": 25
-  },
-  {
-    "modName": "diversified_denial",
-    "hotness": 25
-  },
-  {
-    "modName": "draining_bite",
-    "hotness": 25
-  },
-  {
-    "modName": "endless_lullaby",
-    "hotness": 25
-  },
-  {
-    "modName": "hunt",
-    "hotness": 25
-  },
-  {
-    "modName": "odomedic",
-    "hotness": 25
-  },
-  {
-    "modName": "singularity",
-    "hotness": 25
-  },
-  {
-    "modName": "unleashed",
-    "hotness": 25
-  },
-  {
-    "modName": "wildfire",
-    "hotness": 25
-  },
-  {
-    "modName": "animal_instinct",
-    "hotness": 24
-  },
-  {
-    "modName": "astral_slash",
-    "hotness": 24
-  },
-  {
-    "modName": "champions_blessing",
-    "hotness": 24
-  },
-  {
-    "modName": "combustion_beam",
-    "hotness": 24
-  },
-  {
-    "modName": "combustion_rounds",
-    "hotness": 24
-  },
-  {
-    "modName": "defiled_snapdragon",
-    "hotness": 24
-  },
-  {
-    "modName": "fired_up",
-    "hotness": 24
-  },
-  {
-    "modName": "kill_switch",
-    "hotness": 24
-  },
-  {
-    "modName": "necramech_continuity",
-    "hotness": 24
-  },
-  {
-    "modName": "ore_gaze",
-    "hotness": 24
-  },
-  {
-    "modName": "reaping_spiral",
-    "hotness": 24
-  },
-  {
-    "modName": "safeguard_switch",
-    "hotness": 24
-  },
-  {
-    "modName": "sure_shot",
-    "hotness": 24
-  },
-  {
-    "modName": "terminal_velocity",
-    "hotness": 24
-  },
-  {
-    "modName": "bright_purity",
-    "hotness": 23
-  },
-  {
-    "modName": "dig",
-    "hotness": 23
-  },
-  {
-    "modName": "negate",
-    "hotness": 23
-  },
-  {
-    "modName": "augur_pact",
-    "hotness": 22
-  },
-  {
-    "modName": "blade_of_truth",
-    "hotness": 22
-  },
-  {
-    "modName": "enduring_affliction",
-    "hotness": 22
-  },
-  {
-    "modName": "energy_transfer",
-    "hotness": 22
-  },
-  {
-    "modName": "hawk_eye",
-    "hotness": 22
-  },
-  {
-    "modName": "loot_detector",
-    "hotness": 22
-  },
-  {
-    "modName": "no_return",
-    "hotness": 22
-  },
-  {
-    "modName": "reflection",
-    "hotness": 22
-  },
-  {
-    "modName": "seeking_force",
-    "hotness": 22
-  },
-  {
-    "modName": "toxin_resistance",
-    "hotness": 22
-  },
-  {
-    "modName": "twitch",
-    "hotness": 22
-  },
-  {
-    "modName": "afterburner",
-    "hotness": 21
-  },
-  {
-    "modName": "electromagnetic_shielding",
-    "hotness": 21
-  },
-  {
-    "modName": "focused_prospectus",
-    "hotness": 21
-  },
-  {
-    "modName": "looter",
-    "hotness": 21
-  },
-  {
-    "modName": "motus_signal",
-    "hotness": 21
-  },
-  {
-    "modName": "staggering_shield",
-    "hotness": 21
-  },
-  {
-    "modName": "stunning_speed",
-    "hotness": 21
-  },
-  {
-    "modName": "venari_bodyguard",
-    "hotness": 21
-  },
-  {
-    "modName": "aerial_prospectus",
-    "hotness": 20
-  },
-  {
-    "modName": "agility_drift",
-    "hotness": 20
-  },
-  {
-    "modName": "broad_eye",
-    "hotness": 20
-  },
-  {
-    "modName": "celestial_stomp",
-    "hotness": 20
-  },
-  {
-    "modName": "cleaving_whirlwind",
-    "hotness": 20
-  },
-  {
-    "modName": "crimson_dervish",
-    "hotness": 20
-  },
-  {
-    "modName": "evasive_denial",
-    "hotness": 20
-  },
-  {
-    "modName": "hells_chamber",
-    "hotness": 20
-  },
-  {
-    "modName": "hunter_command",
-    "hotness": 20
-  },
-  {
-    "modName": "hunter_recovery",
-    "hotness": 20
-  },
-  {
-    "modName": "magma_chamber",
-    "hotness": 20
-  },
-  {
-    "modName": "morphic_transformer",
-    "hotness": 20
-  },
-  {
-    "modName": "necramech_intensify",
-    "hotness": 20
-  },
-  {
-    "modName": "necramech_vitality",
-    "hotness": 20
-  },
-  {
-    "modName": "peculiar_growth",
-    "hotness": 20
-  },
-  {
-    "modName": "proton_snap",
-    "hotness": 20
-  },
-  {
-    "modName": "relentless_combination",
-    "hotness": 20
-  },
-  {
-    "modName": "rifle_amp",
-    "hotness": 20
-  },
-  {
-    "modName": "ruinous_extension",
-    "hotness": 20
-  },
-  {
-    "modName": "self_destruct",
-    "hotness": 20
-  },
-  {
-    "modName": "shocking_speed",
-    "hotness": 20
-  },
-  {
-    "modName": "stalk",
-    "hotness": 20
-  },
-  {
-    "modName": "surging_dash",
-    "hotness": 20
-  },
-  {
-    "modName": "synergized_prospectus",
-    "hotness": 20
-  },
-  {
-    "modName": "target_cracker",
-    "hotness": 20
-  },
-  {
-    "modName": "tesla_bank",
-    "hotness": 20
-  },
-  {
-    "modName": "vulcan_blitz",
-    "hotness": 20
-  },
-  {
-    "modName": "winds_of_purity",
-    "hotness": 20
-  },
-  {
-    "modName": "battering_maneuver",
-    "hotness": 19
-  },
-  {
-    "modName": "blinding_reave",
-    "hotness": 19
-  },
-  {
-    "modName": "ion_infusion",
-    "hotness": 19
-  },
-  {
-    "modName": "soft_hands",
-    "hotness": 19
-  },
-  {
-    "modName": "contagion_cloud",
-    "hotness": 18
-  },
-  {
-    "modName": "escape_velocity",
-    "hotness": 18
-  },
-  {
-    "modName": "fatal_teleport",
-    "hotness": 18
-  },
-  {
-    "modName": "fireball_frenzy",
-    "hotness": 18
-  },
-  {
-    "modName": "flux_overdrive",
-    "hotness": 18
-  },
-  {
-    "modName": "four_riders",
-    "hotness": 18
-  },
-  {
-    "modName": "gnashing_payara",
-    "hotness": 18
-  },
-  {
-    "modName": "gun_glide",
-    "hotness": 18
-  },
-  {
-    "modName": "insatiable",
-    "hotness": 18
-  },
-  {
-    "modName": "lasting_covenant",
-    "hotness": 18
-  },
-  {
-    "modName": "muzzle_flash",
-    "hotness": 18
-  },
-  {
-    "modName": "narrow_barrel",
-    "hotness": 18
-  },
-  {
-    "modName": "nebula_bore",
-    "hotness": 18
-  },
-  {
-    "modName": "neutralizing_justice",
-    "hotness": 18
-  },
-  {
-    "modName": "nightwatch_napalm",
-    "hotness": 18
-  },
-  {
-    "modName": "prism_guard",
-    "hotness": 18
-  },
-  {
-    "modName": "rising_storm",
-    "hotness": 18
-  },
-  {
-    "modName": "seeker",
-    "hotness": 18
-  },
-  {
-    "modName": "sense_danger",
-    "hotness": 18
-  },
-  {
-    "modName": "stretch",
-    "hotness": 18
-  },
-  {
-    "modName": "teeming_virulence",
-    "hotness": 18
-  },
-  {
-    "modName": "transistor_shield",
-    "hotness": 18
-  },
-  {
-    "modName": "vigilante_vigor",
-    "hotness": 18
-  },
-  {
-    "modName": "parry",
-    "hotness": 17
-  },
-  {
-    "modName": "shotgun_ammo_mutation",
-    "hotness": 17
-  },
-  {
-    "modName": "strafing_slide",
-    "hotness": 17
-  },
-  {
-    "modName": "ammo_stock",
-    "hotness": 16
-  },
-  {
-    "modName": "hushed_invisibility",
-    "hotness": 16
-  },
-  {
-    "modName": "maim",
-    "hotness": 16
-  },
-  {
-    "modName": "necramech_seismic_wave",
-    "hotness": 16
-  },
-  {
-    "modName": "phoenix_renewal",
-    "hotness": 16
-  },
-  {
-    "modName": "savior_decoy",
-    "hotness": 16
-  },
-  {
-    "modName": "scattered_justice",
-    "hotness": 16
-  },
-  {
-    "modName": "sharpened_bullets",
-    "hotness": 16
-  },
-  {
-    "modName": "spare_parts",
-    "hotness": 16
-  },
-  {
-    "modName": "swirling_tiger",
-    "hotness": 16
-  },
-  {
-    "modName": "synth_charge",
-    "hotness": 16
-  },
-  {
-    "modName": "thermagnetic_shells",
-    "hotness": 16
-  },
-  {
-    "modName": "vile_precision",
-    "hotness": 16
-  },
-  {
-    "modName": "abundant_mutation",
-    "hotness": 15
-  },
-  {
-    "modName": "anchored_glide",
-    "hotness": 15
-  },
-  {
-    "modName": "covert_lethality",
-    "hotness": 15
-  },
-  {
-    "modName": "desiccations_curse",
-    "hotness": 15
-  },
-  {
-    "modName": "entropy_detonation",
-    "hotness": 15
-  },
-  {
-    "modName": "enveloping_cloud",
-    "hotness": 15
-  },
-  {
-    "modName": "equilibrium_audit",
-    "hotness": 15
-  },
-  {
-    "modName": "gilded_truth",
-    "hotness": 15
-  },
-  {
-    "modName": "harkonar_scope",
-    "hotness": 15
-  },
-  {
-    "modName": "irradiating_disarm",
-    "hotness": 15
-  },
-  {
-    "modName": "laser_sight",
-    "hotness": 15
-  },
-  {
-    "modName": "loyal_companion",
-    "hotness": 15
-  },
-  {
-    "modName": "necramech_refuel",
-    "hotness": 15
-  },
-  {
-    "modName": "piercing_navigator",
-    "hotness": 15
-  },
-  {
-    "modName": "power_of_three",
-    "hotness": 15
-  },
-  {
-    "modName": "rending_turn",
-    "hotness": 15
-  },
-  {
-    "modName": "smite_infusion",
-    "hotness": 15
-  },
-  {
-    "modName": "squad_renew",
-    "hotness": 15
-  },
-  {
-    "modName": "thunderbolt",
-    "hotness": 15
-  },
-  {
-    "modName": "tranquil_cleave",
-    "hotness": 15
-  },
-  {
-    "modName": "blind_justice",
-    "hotness": 14
-  },
-  {
-    "modName": "capacitance",
-    "hotness": 14
-  },
-  {
-    "modName": "cats_eye",
-    "hotness": 14
-  },
-  {
-    "modName": "flailing_branch",
-    "hotness": 14
-  },
-  {
-    "modName": "insulation",
-    "hotness": 14
-  },
-  {
-    "modName": "jugulus_barbs",
-    "hotness": 14
-  },
-  {
-    "modName": "killing_blow",
-    "hotness": 14
-  },
-  {
-    "modName": "mach_crash",
-    "hotness": 14
-  },
-  {
-    "modName": "magazine_warp",
-    "hotness": 14
-  },
-  {
-    "modName": "necramech_blitz",
-    "hotness": 14
-  },
-  {
-    "modName": "necramech_deflection",
-    "hotness": 14
-  },
-  {
-    "modName": "onslaught_matrix",
-    "hotness": 14
-  },
-  {
-    "modName": "rupture",
-    "hotness": 14
-  },
-  {
-    "modName": "sniper_ammo_mutation",
-    "hotness": 14
-  },
-  {
-    "modName": "stabilizer",
-    "hotness": 14
-  },
-  {
-    "modName": "stand_united",
-    "hotness": 14
-  },
-  {
-    "modName": "stormbringer",
-    "hotness": 14
-  },
-  {
-    "modName": "streamlined_form",
-    "hotness": 14
-  },
-  {
-    "modName": "suppress",
-    "hotness": 14
-  },
-  {
-    "modName": "accelerated_deflection",
-    "hotness": 13
-  },
-  {
-    "modName": "ammo_case",
-    "hotness": 13
-  },
-  {
-    "modName": "ammo_chain",
-    "hotness": 13
-  },
-  {
-    "modName": "carving_mantis",
-    "hotness": 13
-  },
-  {
-    "modName": "entropy_burst",
-    "hotness": 13
-  },
-  {
-    "modName": "expel_corrupted",
-    "hotness": 13
-  },
-  {
-    "modName": "finishing_touch",
-    "hotness": 13
-  },
-  {
-    "modName": "icy_avalanche",
-    "hotness": 13
-  },
-  {
-    "modName": "intruder_stasis",
-    "hotness": 13
-  },
-  {
-    "modName": "rebound",
-    "hotness": 13
-  },
-  {
-    "modName": "retribution",
-    "hotness": 13
-  },
-  {
-    "modName": "antitoxin",
-    "hotness": 12
-  },
-  {
-    "modName": "assimilate",
-    "hotness": 12
-  },
-  {
-    "modName": "blunderbuss",
-    "hotness": 12
-  },
-  {
-    "modName": "chaos_sphere",
-    "hotness": 12
-  },
-  {
-    "modName": "conic_nozzle",
-    "hotness": 12
-  },
-  {
-    "modName": "counterbalance",
-    "hotness": 12
-  },
-  {
-    "modName": "countermeasures",
-    "hotness": 12
-  },
-  {
-    "modName": "hellfire",
-    "hotness": 12
-  },
-  {
-    "modName": "jagged_edge",
-    "hotness": 12
-  },
-  {
-    "modName": "life_strike",
-    "hotness": 12
-  },
-  {
-    "modName": "maiming_strike",
-    "hotness": 12
-  },
-  {
-    "modName": "path_of_statues",
-    "hotness": 12
-  },
-  {
-    "modName": "pressurized_magazine",
-    "hotness": 12
-  },
-  {
-    "modName": "protective_shots",
-    "hotness": 12
-  },
-  {
-    "modName": "reach",
-    "hotness": 12
-  },
-  {
-    "modName": "sacrifice",
-    "hotness": 12
-  },
-  {
-    "modName": "smite_corpus",
-    "hotness": 12
-  },
-  {
-    "modName": "spellbound_harvest",
-    "hotness": 12
-  },
-  {
-    "modName": "spinning_needle",
-    "hotness": 12
-  },
-  {
-    "modName": "stockpiled_blight",
-    "hotness": 12
-  },
-  {
-    "modName": "strain_consume",
-    "hotness": 12
-  },
-  {
-    "modName": "synth_reflex",
-    "hotness": 12
-  },
-  {
-    "modName": "the_relentless_lost",
-    "hotness": 12
-  },
-  {
-    "modName": "cleanse_grineer",
-    "hotness": 11
-  },
-  {
-    "modName": "corroding_barrage",
-    "hotness": 11
-  },
-  {
-    "modName": "dispatch_overdrive",
-    "hotness": 11
-  },
-  {
-    "modName": "flechette",
-    "hotness": 11
-  },
-  {
-    "modName": "maglev",
-    "hotness": 11
-  },
-  {
-    "modName": "rifle_ammo_mutation",
-    "hotness": 11
-  },
-  {
-    "modName": "shatter_burst",
-    "hotness": 11
-  },
-  {
-    "modName": "shocking_touch",
-    "hotness": 11
-  },
-  {
-    "modName": "whirlwind",
-    "hotness": 11
-  },
-  {
-    "modName": "bhisaj_bal",
-    "hotness": 10
-  },
-  {
-    "modName": "breach_quanta",
-    "hotness": 10
-  },
-  {
-    "modName": "combo_fury",
-    "hotness": 10
-  },
-  {
-    "modName": "galvanized_blade",
-    "hotness": 10
-  },
-  {
-    "modName": "directed_convergence",
-    "hotness": 10
-  },
-  {
-    "modName": "disruptor",
-    "hotness": 10
-  },
-  {
-    "modName": "elemental_sandstorm",
-    "hotness": 10
-  },
-  {
-    "modName": "eleventh_storm",
-    "hotness": 10
-  },
-  {
-    "modName": "everlasting_ward",
-    "hotness": 10
-  },
-  {
-    "modName": "final_harbinger",
-    "hotness": 10
-  },
-  {
-    "modName": "fortifying_fire",
-    "hotness": 10
-  },
-  {
-    "modName": "gleaming_talon",
-    "hotness": 10
-  },
-  {
-    "modName": "grim_fury",
-    "hotness": 10
-  },
-  {
-    "modName": "guided_effigy",
-    "hotness": 10
-  },
-  {
-    "modName": "hollow_point",
-    "hotness": 10
-  },
-  {
-    "modName": "incendiary_coat",
-    "hotness": 10
-  },
-  {
-    "modName": "ironclad_flight",
-    "hotness": 10
-  },
-  {
-    "modName": "poisonous_sting",
-    "hotness": 10
-  },
-  {
-    "modName": "purging_slash",
-    "hotness": 10
-  },
-  {
-    "modName": "quick_return",
-    "hotness": 10
-  },
-  {
-    "modName": "quicklock",
-    "hotness": 10
-  },
-  {
-    "modName": "repo_audit",
-    "hotness": 10
-  },
-  {
-    "modName": "safeguard",
-    "hotness": 10
-  },
-  {
-    "modName": "scavenge",
-    "hotness": 10
-  },
-  {
-    "modName": "shattering_storm",
-    "hotness": 10
-  },
-  {
-    "modName": "shrapnel_shot",
-    "hotness": 10
-  },
-  {
-    "modName": "sudden_impact",
-    "hotness": 10
-  },
-  {
-    "modName": "surging_blades",
-    "hotness": 10
-  },
-  {
-    "modName": "tempered_blade",
-    "hotness": 10
-  },
-  {
-    "modName": "thumper",
-    "hotness": 10
-  },
-  {
-    "modName": "trick_mag",
-    "hotness": 10
-  },
-  {
-    "modName": "afterburn",
-    "hotness": 9
-  },
-  {
-    "modName": "archgun_ace",
-    "hotness": 9
-  },
-  {
-    "modName": "atlantis_vulcan",
-    "hotness": 9
-  },
-  {
-    "modName": "bane_of_infested",
-    "hotness": 9
-  },
-  {
-    "modName": "battle_forge",
-    "hotness": 9
-  },
-  {
-    "modName": "collision_force",
-    "hotness": 9
-  },
-  {
-    "modName": "enhanced_durability",
-    "hotness": 9
-  },
-  {
-    "modName": "flame_repellent",
-    "hotness": 9
-  },
-  {
-    "modName": "galeforce_dawn",
-    "hotness": 9
-  },
-  {
-    "modName": "ghost",
-    "hotness": 9
-  },
-  {
-    "modName": "heavy_impact",
-    "hotness": 9
-  },
-  {
-    "modName": "hunter_track",
-    "hotness": 9
-  },
-  {
-    "modName": "kinetic_ricochet",
-    "hotness": 9
-  },
-  {
-    "modName": "medi_pet_kit",
-    "hotness": 9
-  },
-  {
-    "modName": "motus_impact",
-    "hotness": 9
-  },
-  {
-    "modName": "necramech_stretch",
-    "hotness": 9
-  },
-  {
-    "modName": "resonating_quake",
-    "hotness": 9
-  },
-  {
-    "modName": "sawtooth_clip",
-    "hotness": 9
-  },
-  {
-    "modName": "smite_grineer",
-    "hotness": 9
-  },
-  {
-    "modName": "smite_infested",
-    "hotness": 9
-  },
-  {
-    "modName": "spring_loaded_broadhead",
-    "hotness": 9
-  },
-  {
-    "modName": "steady_hands",
-    "hotness": 9
-  },
-  {
-    "modName": "tainted_clip",
-    "hotness": 9
-  },
-  {
-    "modName": "thiefs_wit",
-    "hotness": 9
-  },
-  {
-    "modName": "undying_will",
-    "hotness": 9
-  },
-  {
-    "modName": "vaporize",
-    "hotness": 9
-  },
-  {
-    "modName": "volatile_parasite",
-    "hotness": 9
-  },
-  {
-    "modName": "aero_vantage",
-    "hotness": 8
-  },
-  {
-    "modName": "aviator",
-    "hotness": 8
-  },
-  {
-    "modName": "bane_of_corpus",
-    "hotness": 8
-  },
-  {
-    "modName": "blazing_steel",
-    "hotness": 8
-  },
-  {
-    "modName": "cleanse_corpus",
-    "hotness": 8
-  },
-  {
-    "modName": "cleanse_infested",
-    "hotness": 8
-  },
-  {
-    "modName": "coiling_viper",
-    "hotness": 8
-  },
-  {
-    "modName": "convulsion",
-    "hotness": 8
-  },
-  {
-    "modName": "cryo_rounds",
-    "hotness": 8
-  },
-  {
-    "modName": "deadly_efficiency",
-    "hotness": 8
-  },
-  {
-    "modName": "decisive_judgement",
-    "hotness": 8
-  },
-  {
-    "modName": "efficient_transferral",
-    "hotness": 8
-  },
-  {
-    "modName": "endurance_drift",
-    "hotness": 8
-  },
-  {
-    "modName": "energy_channel",
-    "hotness": 8
-  },
-  {
-    "modName": "expel_corpus",
-    "hotness": 8
-  },
-  {
-    "modName": "extend",
-    "hotness": 8
-  },
-  {
-    "modName": "fracturing_wind",
-    "hotness": 8
-  },
-  {
-    "modName": "funnel_clouds",
-    "hotness": 8
-  },
-  {
-    "modName": "gemini_cross",
-    "hotness": 8
-  },
-  {
-    "modName": "hallowed_eruption",
-    "hotness": 8
-  },
-  {
-    "modName": "hallowed_reckoning",
-    "hotness": 8
-  },
-  {
-    "modName": "heavy_trauma",
-    "hotness": 8
-  },
-  {
-    "modName": "hyperstrike",
-    "hotness": 8
-  },
-  {
-    "modName": "jet_stream",
-    "hotness": 8
-  },
-  {
-    "modName": "metal_auger",
-    "hotness": 8
-  },
-  {
-    "modName": "necramech_pressure_point",
-    "hotness": 8
-  },
-  {
-    "modName": "necramech_rebuke",
-    "hotness": 8
-  },
-  {
-    "modName": "pain_threshold",
-    "hotness": 8
-  },
-  {
-    "modName": "perpetual_agony",
-    "hotness": 8
-  },
-  {
-    "modName": "piercing_step",
-    "hotness": 8
-  },
-  {
-    "modName": "power_throw",
-    "hotness": 8
-  },
-  {
-    "modName": "pressure_point",
-    "hotness": 8
-  },
-  {
-    "modName": "proton_pulse",
-    "hotness": 8
-  },
-  {
-    "modName": "rending_strike",
-    "hotness": 8
-  },
-  {
-    "modName": "revenge",
-    "hotness": 8
-  },
-  {
-    "modName": "revo_reducer",
-    "hotness": 8
-  },
-  {
-    "modName": "section_density",
-    "hotness": 8
-  },
-  {
-    "modName": "seeking_fury",
-    "hotness": 8
-  },
-  {
-    "modName": "seismic_palm",
-    "hotness": 8
-  },
-  {
-    "modName": "shell_compression",
-    "hotness": 8
-  },
-  {
-    "modName": "shepherd",
-    "hotness": 8
-  },
-  {
-    "modName": "shotgun_savvy",
-    "hotness": 8
-  },
-  {
-    "modName": "speed_trigger",
-    "hotness": 8
-  },
-  {
-    "modName": "sundering_weave",
-    "hotness": 8
-  },
-  {
-    "modName": "thermal_transfer",
-    "hotness": 8
-  },
-  {
-    "modName": "adhesive_blast",
-    "hotness": 7
-  },
-  {
-    "modName": "argon_plating",
-    "hotness": 7
-  },
-  {
-    "modName": "charged_chamber",
-    "hotness": 7
-  },
-  {
-    "modName": "chilling_grasp",
-    "hotness": 7
-  },
-  {
-    "modName": "clashing_forest",
-    "hotness": 7
-  },
-  {
-    "modName": "comet_blast",
-    "hotness": 7
-  },
-  {
-    "modName": "concealed_explosives",
-    "hotness": 7
-  },
-  {
-    "modName": "concussion_rounds",
-    "hotness": 7
-  },
-  {
-    "modName": "continuous_misery",
-    "hotness": 7
-  },
-  {
-    "modName": "crossing_snakes",
-    "hotness": 7
-  },
-  {
-    "modName": "energy_field",
-    "hotness": 7
-  },
-  {
-    "modName": "full_contact",
-    "hotness": 7
-  },
-  {
-    "modName": "mischief",
-    "hotness": 7
-  },
-  {
-    "modName": "motus_setup",
-    "hotness": 7
-  },
-  {
-    "modName": "necramech_enemy_sense",
-    "hotness": 7
-  },
-  {
-    "modName": "necramech_fury",
-    "hotness": 7
-  },
-  {
-    "modName": "necramech_reach",
-    "hotness": 7
-  },
-  {
-    "modName": "pack_leader",
-    "hotness": 7
-  },
-  {
-    "modName": "pistol_gambit",
-    "hotness": 7
-  },
-  {
-    "modName": "reflex_coil",
-    "hotness": 7
-  },
-  {
-    "modName": "regen",
-    "hotness": 7
-  },
-  {
-    "modName": "ripload",
-    "hotness": 7
-  },
-  {
-    "modName": "rubedo_lined_barrel",
-    "hotness": 7
-  },
-  {
-    "modName": "rush",
-    "hotness": 7
-  },
-  {
-    "modName": "sharpened_claws",
-    "hotness": 7
-  },
-  {
-    "modName": "shield_charger",
-    "hotness": 7
-  },
-  {
-    "modName": "sundering_strike",
-    "hotness": 7
-  },
-  {
-    "modName": "superior_defenses",
-    "hotness": 7
-  },
-  {
-    "modName": "territorial_aggression",
-    "hotness": 7
-  },
-  {
-    "modName": "antimatter_absorb",
-    "hotness": 6
-  },
-  {
-    "modName": "bane_of_grineer",
-    "hotness": 6
-  },
-  {
-    "modName": "carnis_mandible",
-    "hotness": 6
-  },
-  {
-    "modName": "charm",
-    "hotness": 6
-  },
-  {
-    "modName": "crash_course",
-    "hotness": 6
-  },
-  {
-    "modName": "creeping_terrify",
-    "hotness": 6
-  },
-  {
-    "modName": "curative_undertow",
-    "hotness": 6
-  },
-  {
-    "modName": "energy_inversion",
-    "hotness": 6
-  },
-  {
-    "modName": "expel_grineer",
-    "hotness": 6
-  },
-  {
-    "modName": "expel_infested",
-    "hotness": 6
-  },
-  {
-    "modName": "fatal_acceleration",
-    "hotness": 6
-  },
-  {
-    "modName": "granums_nemesis",
-    "hotness": 6
-  },
-  {
-    "modName": "ice_wave_impedance",
-    "hotness": 6
-  },
-  {
-    "modName": "indomitable_matrix",
-    "hotness": 6
-  },
-  {
-    "modName": "infectious_injection",
-    "hotness": 6
-  },
-  {
-    "modName": "larva_burst",
-    "hotness": 6
-  },
-  {
-    "modName": "magazine_extension",
-    "hotness": 6
-  },
-  {
-    "modName": "mending_splinters",
-    "hotness": 6
-  },
-  {
-    "modName": "munitions_vortex",
-    "hotness": 6
-  },
-  {
-    "modName": "orgone_tuning_matrix",
-    "hotness": 6
-  },
-  {
-    "modName": "patagium",
-    "hotness": 6
-  },
-  {
-    "modName": "piercing_roar",
-    "hotness": 6
-  },
-  {
-    "modName": "point_blank",
-    "hotness": 6
-  },
-  {
-    "modName": "proton_jet",
-    "hotness": 6
-  },
-  {
-    "modName": "pummel",
-    "hotness": 6
-  },
-  {
-    "modName": "pyroclastic_flow",
-    "hotness": 6
-  },
-  {
-    "modName": "radiant_finish",
-    "hotness": 6
-  },
-  {
-    "modName": "reinforcing_stomp",
-    "hotness": 6
-  },
-  {
-    "modName": "repair_dispensary",
-    "hotness": 6
-  },
-  {
-    "modName": "repair_kit",
-    "hotness": 6
-  },
-  {
-    "modName": "shield_disruption",
-    "hotness": 6
-  },
-  {
-    "modName": "strain_eruption",
-    "hotness": 6
-  },
-  {
-    "modName": "tek_gravity",
-    "hotness": 6
-  },
-  {
-    "modName": "tribunal",
-    "hotness": 6
-  },
-  {
-    "modName": "warm_coat",
-    "hotness": 6
-  },
-  {
-    "modName": "waveband_disruptor",
-    "hotness": 6
-  },
-  {
-    "modName": "aero_periphery",
-    "hotness": 5
-  },
-  {
-    "modName": "brutal_tide",
-    "hotness": 5
-  },
-  {
-    "modName": "burning_wasp",
-    "hotness": 5
-  },
-  {
-    "modName": "critical_surge",
-    "hotness": 5
-  },
-  {
-    "modName": "double_barrel_drift",
-    "hotness": 5
-  },
-  {
-    "modName": "fire_suppression",
-    "hotness": 5
-  },
-  {
-    "modName": "freeze_force",
-    "hotness": 5
-  },
-  {
-    "modName": "furor",
-    "hotness": 5
-  },
-  {
-    "modName": "glacial_edge",
-    "hotness": 5
-  },
-  {
-    "modName": "gunslinger",
-    "hotness": 5
-  },
-  {
-    "modName": "handspring",
-    "hotness": 5
-  },
-  {
-    "modName": "hunter_synergy",
-    "hotness": 5
-  },
-  {
-    "modName": "ironclad_matrix",
-    "hotness": 5
-  },
-  {
-    "modName": "lasting_purity",
-    "hotness": 5
-  },
-  {
-    "modName": "meteor_crash",
-    "hotness": 5
-  },
-  {
-    "modName": "molten_impact",
-    "hotness": 5
-  },
-  {
-    "modName": "necramech_friction",
-    "hotness": 5
-  },
-  {
-    "modName": "overloader",
-    "hotness": 5
-  },
-  {
-    "modName": "parallax_scope",
-    "hotness": 5
-  },
-  {
-    "modName": "partitioned_mallet",
-    "hotness": 5
-  },
-  {
-    "modName": "pistol_ammo_mutation",
-    "hotness": 5
-  },
-  {
-    "modName": "resolute_focus",
-    "hotness": 5
-  },
-  {
-    "modName": "rift_haven",
-    "hotness": 5
-  },
-  {
-    "modName": "savagery",
-    "hotness": 5
-  },
-  {
-    "modName": "scourging_warheads",
-    "hotness": 5
-  },
-  {
-    "modName": "sentient_scalpel",
-    "hotness": 5
-  },
-  {
-    "modName": "shattering_impact",
-    "hotness": 5
-  },
-  {
-    "modName": "shotgun_scavenger",
-    "hotness": 5
-  },
-  {
-    "modName": "sinister_reach",
-    "hotness": 5
-  },
-  {
-    "modName": "snap_shot",
-    "hotness": 5
-  },
-  {
-    "modName": "sonic_fracture",
-    "hotness": 5
-  },
-  {
-    "modName": "true_steel",
-    "hotness": 5
-  },
-  {
-    "modName": "vacuum",
-    "hotness": 5
-  },
-  {
-    "modName": "void_cloak",
-    "hotness": 5
-  },
-  {
-    "modName": "carnis_carapace",
-    "hotness": 4
-  },
-  {
-    "modName": "crowd_dispersion",
-    "hotness": 4
-  },
-  {
-    "modName": "gaias_tragedy",
-    "hotness": 4
-  },
-  {
-    "modName": "modified_munitions",
-    "hotness": 4
-  },
-  {
-    "modName": "polar_magazine",
-    "hotness": 4
-  },
-  {
-    "modName": "range_advantage",
-    "hotness": 4
-  },
-  {
-    "modName": "saxum_thorax",
-    "hotness": 4
-  },
-  {
-    "modName": "tek_collateral",
-    "hotness": 4
-  },
-  {
-    "modName": "trail_blazer",
-    "hotness": 4
-  },
-  {
-    "modName": "entropy_spike",
-    "hotness": 3
-  },
-  {
-    "modName": "fever_strike",
-    "hotness": 3
-  },
-  {
-    "modName": "master_thief",
-    "hotness": 3
-  },
-  {
-    "modName": "quick_escape",
-    "hotness": 3
-  },
-  {
-    "modName": "shock_absorbers",
-    "hotness": 3
-  },
-  {
-    "modName": "spry_sights",
-    "hotness": 3
-  },
-  {
-    "modName": "vulpine_mask",
-    "hotness": 3
-  },
-  {
-    "modName": "burdened_magazine",
-    "hotness": 2
-  },
-  {
-    "modName": "predator",
-    "hotness": 2
-  },
-  {
-    "modName": "quasar_drill",
-    "hotness": 2
-  },
-  {
-    "modName": "reaping_chakram",
-    "hotness": 2
-  },
-  {
-    "modName": "revealing_spores",
-    "hotness": 2
-  },
-  {
-    "modName": "target_acquired",
-    "hotness": 2
-  },
-  {
-    "modName": "tether_grenades",
-    "hotness": 2
-  },
-  {
-    "modName": "accelerated_blast",
-    "hotness": 1
-  },
-  {
-    "modName": "fetch",
-    "hotness": 1
+    "modName": "combat_reload",
+    "hotness": 0.009775171065493646
   },
   {
     "modName": "guided_ordnance",
-    "hotness": 1
+    "hotness": 0.008895405669599218
+  },
+  {
+    "modName": "gladiator_resolve",
+    "hotness": 0.008797653958944282
+  },
+  {
+    "modName": "energizing_shot",
+    "hotness": 0.008471814923427827
+  },
+  {
+    "modName": "enemy_radar",
+    "hotness": 0.008308895405669599
+  },
+  {
+    "modName": "berserker",
+    "hotness": 0.00808080808080808
+  },
+  {
+    "modName": "efficient_beams",
+    "hotness": 0.007820136852394917
+  },
+  {
+    "modName": "calculated_redirection",
+    "hotness": 0.007624633431085044
+  },
+  {
+    "modName": "gladiator_aegis",
+    "hotness": 0.007526881720430108
+  },
+  {
+    "modName": "bullet_dance",
+    "hotness": 0.007168458781362007
+  },
+  {
+    "modName": "exposing_harpoon",
+    "hotness": 0.006972955360052134
+  },
+  {
+    "modName": "forward_artillery",
+    "hotness": 0.006907787552948843
+  },
+  {
+    "modName": "death_blossom",
+    "hotness": 0.006842619745845552
+  },
+  {
+    "modName": "creeping_bullseye",
+    "hotness": 0.006744868035190616
+  },
+  {
+    "modName": "critical_focus",
+    "hotness": 0.0064516129032258064
+  },
+  {
+    "modName": "gladiator_vice",
+    "hotness": 0.0064516129032258064
+  },
+  {
+    "modName": "buzz_kill",
+    "hotness": 0.00635386119257087
+  },
+  {
+    "modName": "hastened_deflection",
+    "hotness": 0.00635386119257087
+  },
+  {
+    "modName": "metal_fiber",
+    "hotness": 0.00635386119257087
+  },
+  {
+    "modName": "barrel_diffusion",
+    "hotness": 0.0062561094819159335
+  },
+  {
+    "modName": "constitution",
+    "hotness": 0.006060606060606061
+  },
+  {
+    "modName": "fomorian_accelerant",
+    "hotness": 0.006060606060606061
+  },
+  {
+    "modName": "cunning_drift",
+    "hotness": 0.005865102639296188
+  },
+  {
+    "modName": "frost_jaw",
+    "hotness": 0.005865102639296188
+  },
+  {
+    "modName": "galeforce_dawn",
+    "hotness": 0.005865102639296188
+  },
+  {
+    "modName": "accumulating_whipclaw",
+    "hotness": 0.005474095796676442
+  },
+  {
+    "modName": "hollowed_bullets",
+    "hotness": 0.005376344086021506
+  },
+  {
+    "modName": "endoparasitic_vector",
+    "hotness": 0.005213424568263278
+  },
+  {
+    "modName": "gladiator_finesse",
+    "hotness": 0.005213424568263278
+  },
+  {
+    "modName": "hemorrhage",
+    "hotness": 0.005213424568263278
+  },
+  {
+    "modName": "boreals_anguish",
+    "hotness": 0.005083088954056696
+  },
+  {
+    "modName": "continuity",
+    "hotness": 0.005083088954056696
+  },
+  {
+    "modName": "malignant_force",
+    "hotness": 0.005083088954056696
+  },
+  {
+    "modName": "bleeding_willow",
+    "hotness": 0.00498533724340176
+  },
+  {
+    "modName": "bursting_mass",
+    "hotness": 0.00498533724340176
+  },
+  {
+    "modName": "looter",
+    "hotness": 0.004887585532746823
+  },
+  {
+    "modName": "kinetic_diversion",
+    "hotness": 0.004822417725643532
+  },
+  {
+    "modName": "drifting_contact",
+    "hotness": 0.004789833822091887
+  },
+  {
+    "modName": "ice_spring",
+    "hotness": 0.004789833822091887
+  },
+  {
+    "modName": "empowered_quiver",
+    "hotness": 0.00469208211143695
+  },
+  {
+    "modName": "heated_charge",
+    "hotness": 0.00469208211143695
+  },
+  {
+    "modName": "howl",
+    "hotness": 0.004594330400782014
+  },
+  {
+    "modName": "dig",
+    "hotness": 0.004561746497230368
+  },
+  {
+    "modName": "focus_energy",
+    "hotness": 0.004561746497230368
+  },
+  {
+    "modName": "cruising_speed",
+    "hotness": 0.004447702834799609
+  },
+  {
+    "modName": "lethal_momentum",
+    "hotness": 0.004398826979472141
+  },
+  {
+    "modName": "aero_vantage",
+    "hotness": 0.004301075268817204
+  },
+  {
+    "modName": "high_noon",
+    "hotness": 0.004301075268817204
+  },
+  {
+    "modName": "infected_clip",
+    "hotness": 0.004301075268817204
+  },
+  {
+    "modName": "mending_shot",
+    "hotness": 0.004268491365265559
+  },
+  {
+    "modName": "contamination_casing",
+    "hotness": 0.004235907461713913
+  },
+  {
+    "modName": "carving_mantis",
+    "hotness": 0.004203323558162268
+  },
+  {
+    "modName": "hunter_recovery",
+    "hotness": 0.004105571847507331
+  },
+  {
+    "modName": "medi_ray",
+    "hotness": 0.004105571847507331
+  },
+  {
+    "modName": "butchers_revelry",
+    "hotness": 0.0039100684261974585
+  },
+  {
+    "modName": "fracturing_crush",
+    "hotness": 0.0039100684261974585
+  },
+  {
+    "modName": "handspring",
+    "hotness": 0.0039100684261974585
+  },
+  {
+    "modName": "magnetized_discharge",
+    "hotness": 0.0039100684261974585
+  },
+  {
+    "modName": "gleaming_talon",
+    "hotness": 0.003877484522645813
+  },
+  {
+    "modName": "cutting_edge",
+    "hotness": 0.003763440860215054
+  },
+  {
+    "modName": "chilling_reload",
+    "hotness": 0.0037145650048875855
+  },
+  {
+    "modName": "energy_amplifier",
+    "hotness": 0.0036656891495601175
+  },
+  {
+    "modName": "crimson_fugue",
+    "hotness": 0.0036493971977842946
+  },
+  {
+    "modName": "hunter_track",
+    "hotness": 0.0036493971977842946
+  },
+  {
+    "modName": "charged_bullets",
+    "hotness": 0.0035842293906810036
+  },
+  {
+    "modName": "lock_and_load",
+    "hotness": 0.0035842293906810036
+  },
+  {
+    "modName": "flow_burn",
+    "hotness": 0.003567937438905181
+  },
+  {
+    "modName": "ammo_drum",
+    "hotness": 0.0035190615835777126
+  },
+  {
+    "modName": "chromatic_blade",
+    "hotness": 0.0035190615835777126
+  },
+  {
+    "modName": "crimson_dervish",
+    "hotness": 0.0035190615835777126
+  },
+  {
+    "modName": "enhanced_vitality",
+    "hotness": 0.0035190615835777126
+  },
+  {
+    "modName": "final_harbinger",
+    "hotness": 0.0035190615835777126
+  },
+  {
+    "modName": "dizzying_rounds",
+    "hotness": 0.003421309872922776
+  },
+  {
+    "modName": "blade_of_truth",
+    "hotness": 0.0033235581622678397
+  },
+  {
+    "modName": "hunter_command",
+    "hotness": 0.0033235581622678397
+  },
+  {
+    "modName": "empowered_blades",
+    "hotness": 0.0032583903551645487
+  },
+  {
+    "modName": "magma_chamber",
+    "hotness": 0.0032583903551645487
+  },
+  {
+    "modName": "contagious_spread",
+    "hotness": 0.0032258064516129032
+  },
+  {
+    "modName": "hornet_strike",
+    "hotness": 0.003176930596285435
+  },
+  {
+    "modName": "emp_aura",
+    "hotness": 0.0031280547409579668
+  },
+  {
+    "modName": "melee_prowess",
+    "hotness": 0.0031280547409579668
+  },
+  {
+    "modName": "lightning_dash",
+    "hotness": 0.0030954708374063213
+  },
+  {
+    "modName": "deep_freeze",
+    "hotness": 0.0030791788856304987
+  },
+  {
+    "modName": "lasting_sting",
+    "hotness": 0.0030303030303030303
+  },
+  {
+    "modName": "augur_pact",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "aviator",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "body_count",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "enduring_strike",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "fanged_fusillade",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "gladiator_rush",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "hata_satya",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "hearty_nourishment",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "loot_detector",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "cautious_shot",
+    "hotness": 0.002867383512544803
+  },
+  {
+    "modName": "firewalker",
+    "hotness": 0.0028347996089931574
+  },
+  {
+    "modName": "counterbalance",
+    "hotness": 0.002737047898338221
+  },
+  {
+    "modName": "enduring_affliction",
+    "hotness": 0.002737047898338221
+  },
+  {
+    "modName": "decisive_judgement",
+    "hotness": 0.0026392961876832845
+  },
+  {
+    "modName": "hydraulic_barrel",
+    "hotness": 0.0026392961876832845
+  },
+  {
+    "modName": "measured_burst",
+    "hotness": 0.0026392961876832845
+  },
+  {
+    "modName": "combo_fury",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "dread_ward",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "healing_flame",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "infiltrate",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "deft_tempo",
+    "hotness": 0.002541544477028348
+  },
+  {
+    "modName": "escape_velocity",
+    "hotness": 0.002541544477028348
+  },
+  {
+    "modName": "detect_vulnerability",
+    "hotness": 0.0024437927663734115
+  },
+  {
+    "modName": "flame_gland",
+    "hotness": 0.0024437927663734115
+  },
+  {
+    "modName": "gleaming_blight",
+    "hotness": 0.0024437927663734115
+  },
+  {
+    "modName": "jugulus_barbs",
+    "hotness": 0.0024437927663734115
+  },
+  {
+    "modName": "depleted_reload",
+    "hotness": 0.002346041055718475
+  },
+  {
+    "modName": "fortitude",
+    "hotness": 0.002346041055718475
+  },
+  {
+    "modName": "hypothermic_shell",
+    "hotness": 0.002346041055718475
+  },
+  {
+    "modName": "cryo_coating",
+    "hotness": 0.002280873248615184
+  },
+  {
+    "modName": "jugulus_spines",
+    "hotness": 0.002280873248615184
+  },
+  {
+    "modName": "mesas_waltz",
+    "hotness": 0.002280873248615184
+  },
+  {
+    "modName": "battering_maneuver",
+    "hotness": 0.0021994134897360706
+  },
+  {
+    "modName": "cataclysmic_continuum",
+    "hotness": 0.002150537634408602
+  },
+  {
+    "modName": "focused_prospectus",
+    "hotness": 0.0021179537308569567
+  },
+  {
+    "modName": "insatiable",
+    "hotness": 0.0021179537308569567
+  },
+  {
+    "modName": "marked_target",
+    "hotness": 0.002085369827305311
+  },
+  {
+    "modName": "ammo_stock",
+    "hotness": 0.0020527859237536657
+  },
+  {
+    "modName": "artillery_cheap_shot",
+    "hotness": 0.0020527859237536657
+  },
+  {
+    "modName": "carnis_mandible",
+    "hotness": 0.0020527859237536657
+  },
+  {
+    "modName": "atlantis_vulcan",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "champions_blessing",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "cold_snap",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "damzav_vati",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "deadly_sequence",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "eagle_eye",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "energy_transfer",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "eroding_blight",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "fireball_frenzy",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "incendiary_coat",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "lasting_covenant",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "mecha_pulse",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "melee_guidance",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "endurance_drift",
+    "hotness": 0.0017921146953405018
+  },
+  {
+    "modName": "eternal_war",
+    "hotness": 0.0017921146953405018
+  },
+  {
+    "modName": "final_act",
+    "hotness": 0.0017921146953405018
+  },
+  {
+    "modName": "electromagnetic_shielding",
+    "hotness": 0.0017595307917888563
+  },
+  {
+    "modName": "breach_loader",
+    "hotness": 0.0017269468882372108
+  },
+  {
+    "modName": "fury",
+    "hotness": 0.001710654936461388
+  },
+  {
+    "modName": "controlled_slide",
+    "hotness": 0.0016291951775822744
+  },
+  {
+    "modName": "diversified_denial",
+    "hotness": 0.0016291951775822744
+  },
+  {
+    "modName": "energy_generator",
+    "hotness": 0.0016291951775822744
+  },
+  {
+    "modName": "hollow_point",
+    "hotness": 0.0015966112740306289
+  },
+  {
+    "modName": "countermeasures",
+    "hotness": 0.0015640273704789834
+  },
+  {
+    "modName": "ferocity",
+    "hotness": 0.001531443466927338
+  },
+  {
+    "modName": "guardian_derision",
+    "hotness": 0.0014988595633756924
+  },
+  {
+    "modName": "amars_contempt",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "argon_scope",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "blinding_reave",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "critical_precision",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "diamond_skin",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "equilibrium_audit",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "speed_holster",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "hunt",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "loyal_companion",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "mecha_recharge",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "conductor",
+    "hotness": 0.0013685239491691105
+  },
+  {
+    "modName": "crushing_ruin",
+    "hotness": 0.0013685239491691105
+  },
+  {
+    "modName": "insulation",
+    "hotness": 0.0013685239491691105
+  },
+  {
+    "modName": "medi_pet_kit",
+    "hotness": 0.0013685239491691105
+  },
+  {
+    "modName": "augur_accord",
+    "hotness": 0.0013196480938416422
+  },
+  {
+    "modName": "archgun_ace",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "concentrated_arrow",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "four_riders",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "hall_of_malevolence",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "antitoxin",
+    "hotness": 0.001270772238514174
+  },
+  {
+    "modName": "disruptor",
+    "hotness": 0.001270772238514174
+  },
+  {
+    "modName": "animal_instinct",
+    "hotness": 0.0012381883349625285
+  },
+  {
+    "modName": "cleanse_corrupted",
+    "hotness": 0.0012218963831867058
+  },
+  {
+    "modName": "ambush_optics_(rubico)",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "armored_agility",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "blunderbuss",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "broad_eye",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "cryo_rounds",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "embedded_catalyzer",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "fetch",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "fire_suppression",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "hunter_synergy",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "avenging_truth",
+    "hotness": 0.001140436624307592
+  },
+  {
+    "modName": "entropy_detonation",
+    "hotness": 0.001140436624307592
+  },
+  {
+    "modName": "frail_momentum",
+    "hotness": 0.001140436624307592
+  },
+  {
+    "modName": "acid_shells",
+    "hotness": 0.0011241446725317693
+  },
+  {
+    "modName": "assimilate",
+    "hotness": 0.0011078527207559466
+  },
+  {
+    "modName": "agile_aim",
+    "hotness": 0.001075268817204301
+  },
+  {
+    "modName": "ammo_chain",
+    "hotness": 0.001075268817204301
+  },
+  {
+    "modName": "hawk_eye",
+    "hotness": 0.001075268817204301
+  },
+  {
+    "modName": "iron_shrapnel",
+    "hotness": 0.001075268817204301
+  },
+  {
+    "modName": "firestorm",
+    "hotness": 0.0010426849136526556
+  },
+  {
+    "modName": "immolated_radiance",
+    "hotness": 0.0010426849136526556
+  },
+  {
+    "modName": "maiming_strike",
+    "hotness": 0.0010426849136526556
+  },
+  {
+    "modName": "bladed_rounds",
+    "hotness": 0.0010263929618768328
+  },
+  {
+    "modName": "combustion_rounds",
+    "hotness": 0.0010263929618768328
+  },
+  {
+    "modName": "breach_quanta",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "contagion_cloud",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "crowd_dispersion",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "dead_eye",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "eject_magazine",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "flow",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "furious_javelin",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "hallowed_reckoning",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "harkonar_scope",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "ice_storm",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "irradiating_disarm",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "life_strike",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "malicious_raptor",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "cleaving_whirlwind",
+    "hotness": 0.0009123492994460736
+  },
+  {
+    "modName": "extreme_velocity",
+    "hotness": 0.0009123492994460736
+  },
+  {
+    "modName": "intensify",
+    "hotness": 0.0009123492994460736
+  },
+  {
+    "modName": "jagged_edge",
+    "hotness": 0.0009123492994460736
+  },
+  {
+    "modName": "charged_shell",
+    "hotness": 0.0008797653958944282
+  },
+  {
+    "modName": "form_up",
+    "hotness": 0.0008797653958944282
+  },
+  {
+    "modName": "ghost",
+    "hotness": 0.0008797653958944282
+  },
+  {
+    "modName": "killing_blow",
+    "hotness": 0.0008797653958944282
+  },
+  {
+    "modName": "ambush",
+    "hotness": 0.0008145975887911372
+  },
+  {
+    "modName": "anti_grav_array",
+    "hotness": 0.0008145975887911372
+  },
+  {
+    "modName": "defensive_fire",
+    "hotness": 0.0008145975887911372
+  },
+  {
+    "modName": "meteor_crash",
+    "hotness": 0.0008145975887911372
+  },
+  {
+    "modName": "argon_plating",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "astral_slash",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "calm_and_frenzy",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "cats_eye",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "energy_inversion",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "expel_corpus",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "extend",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "fast_hands",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "guardian",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "hyperstrike",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "auxiliary_power",
+    "hotness": 0.0007331378299120235
+  },
+  {
+    "modName": "hunters_bonesaw",
+    "hotness": 0.0007331378299120235
+  },
+  {
+    "modName": "intruder_stasis",
+    "hotness": 0.0007331378299120235
+  },
+  {
+    "modName": "aerial_prospectus",
+    "hotness": 0.0007168458781362007
+  },
+  {
+    "modName": "airburst_rounds",
+    "hotness": 0.0007168458781362007
+  },
+  {
+    "modName": "arrow_mutation",
+    "hotness": 0.0007168458781362007
+  },
+  {
+    "modName": "enemy_sense",
+    "hotness": 0.0007168458781362007
+  },
+  {
+    "modName": "afterburner",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "assault_mode",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "capacitance",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "chilling_grasp",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "continuous_misery",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "enveloping_cloud",
+    "hotness": 0.0006842619745845552
   },
   {
     "modName": "hush",
-    "hotness": 1
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "abating_link",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "blood_forge",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "brain_storm_(grakata)",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "efficient_transferral",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "exothermic",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "funnel_clouds",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "hells_chamber",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "blazing_steel",
+    "hotness": 0.000635386119257087
+  },
+  {
+    "modName": "bore",
+    "hotness": 0.0006190941674812643
+  },
+  {
+    "modName": "fortifying_fire",
+    "hotness": 0.0006190941674812643
+  },
+  {
+    "modName": "aero_periphery",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "air_recon",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "catalyzer_link",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "charm",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "combustion_beam",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "fatal_teleport",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "finishing_touch",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "flailing_branch",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "flechette",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "flux_overdrive",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "ironclad_flight",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "magazine_extension",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "fused_reservoir",
+    "hotness": 0.0005539263603779733
+  },
+  {
+    "modName": "cleanse_grineer",
+    "hotness": 0.0005376344086021505
+  },
+  {
+    "modName": "enhanced_durability",
+    "hotness": 0.0005376344086021505
+  },
+  {
+    "modName": "maglev",
+    "hotness": 0.0005376344086021505
+  },
+  {
+    "modName": "bright_purity",
+    "hotness": 0.0005213424568263278
+  },
+  {
+    "modName": "energy_channel",
+    "hotness": 0.0005213424568263278
+  },
+  {
+    "modName": "hushed_invisibility",
+    "hotness": 0.0005213424568263278
+  },
+  {
+    "modName": "ironclad_charge",
+    "hotness": 0.0005213424568263278
+  },
+  {
+    "modName": "aerial_ace",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "bane_of_infested",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "battle_forge",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "galvanized_blade",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "deceptive_bond",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "desiccations_curse",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "disarming_purity",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "dispatch_overdrive",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "elemental_sandstorm",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "fatal_attraction",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "ice_wave_impedance",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "icy_avalanche",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "beguiling_lantern",
+    "hotness": 0.0004561746497230368
+  },
+  {
+    "modName": "chilling_globe",
+    "hotness": 0.0004561746497230368
+  },
+  {
+    "modName": "comet_blast",
+    "hotness": 0.0004561746497230368
+  },
+  {
+    "modName": "ion_infusion",
+    "hotness": 0.0004561746497230368
+  },
+  {
+    "modName": "freeze_force",
+    "hotness": 0.00042359074617139133
+  },
+  {
+    "modName": "air_time",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "blind_justice",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "cleanse_infested",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "concussion_rounds",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "convulsion",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "endless_lullaby",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "expel_infested",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "fast_deflection",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "guided_effigy",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "mag_locks",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "master_thief",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "balefire_surge",
+    "hotness": 0.00035842293906810036
+  },
+  {
+    "modName": "corroding_barrage",
+    "hotness": 0.00035842293906810036
+  },
+  {
+    "modName": "heavy_trauma",
+    "hotness": 0.00035842293906810036
+  },
+  {
+    "modName": "maim",
+    "hotness": 0.00035842293906810036
+  },
+  {
+    "modName": "charged_chamber",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "fatal_acceleration",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "blazing_pillage",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "celestial_stomp",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "chaos_sphere",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "defiled_snapdragon",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "duality",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "enraged",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "gilded_truth",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "gourmand",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "gun_glide",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "hallowed_eruption",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "mach_crash",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "mecha_empowered",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "mind_freak",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "ammo_case",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "bane_of_corpus",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "bane_of_grineer",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "cleanse_corpus",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "collision_force",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "expel_grineer",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "flame_repellent",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "gunslinger",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "hellfire",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "kinetic_ricochet",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "laser_sight",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "adhesive_blast",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "deadly_efficiency",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "energy_field",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "everlasting_ward",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "fired_up",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "full_contact",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "gaias_tragedy",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "metal_auger",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "expel_corrupted",
+    "hotness": 0.00024437927663734115
+  },
+  {
+    "modName": "fever_strike",
+    "hotness": 0.00024437927663734115
+  },
+  {
+    "modName": "heavy_impact",
+    "hotness": 0.00024437927663734115
+  },
+  {
+    "modName": "ironclad_matrix",
+    "hotness": 0.00024437927663734115
+  },
+  {
+    "modName": "concealed_explosives",
+    "hotness": 0.0002280873248615184
+  },
+  {
+    "modName": "creeping_terrify",
+    "hotness": 0.0002280873248615184
+  },
+  {
+    "modName": "curative_undertow",
+    "hotness": 0.0002280873248615184
+  },
+  {
+    "modName": "gale_kick",
+    "hotness": 0.0002280873248615184
+  },
+  {
+    "modName": "anchored_glide",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "antimatter_absorb",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "fracturing_wind",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "furor",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "infectious_injection",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "kinetic_friction",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "agility_drift",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "biting_frost",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "crash_course",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "critical_surge",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "double_barrel_drift",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "evasive_denial",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "jet_stream",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "larva_burst",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "burning_wasp",
+    "hotness": 0.0001466275659824047
+  },
+  {
+    "modName": "carnis_carapace",
+    "hotness": 0.0001466275659824047
+  },
+  {
+    "modName": "clashing_forest",
+    "hotness": 0.0001466275659824047
+  },
+  {
+    "modName": "gemini_cross",
+    "hotness": 0.0001466275659824047
+  },
+  {
+    "modName": "grim_fury",
+    "hotness": 0.0001466275659824047
+  },
+  {
+    "modName": "accelerated_blast",
+    "hotness": 0.00013033561420658195
+  },
+  {
+    "modName": "brutal_tide",
+    "hotness": 0.00013033561420658195
+  },
+  {
+    "modName": "gnashing_payara",
+    "hotness": 0.00013033561420658195
+  },
+  {
+    "modName": "justice_blades",
+    "hotness": 0.00013033561420658195
+  },
+  {
+    "modName": "abundant_mutation",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "auto_omni",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "bhisaj_bal",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "burdened_magazine",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "coiling_viper",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "covert_lethality",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "crossing_snakes",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "entropy_burst",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "entropy_spike",
+    "hotness": 0.00009775171065493646
   },
   {
     "modName": "ion_burn",
-    "hotness": 1
+    "hotness": 0.00009775171065493646
   },
   {
-    "modName": "resonance",
-    "hotness": 1
+    "modName": "iron_phoenix",
+    "hotness": 0.00009775171065493646
   },
   {
-    "modName": "votive_onslaught",
-    "hotness": 1
+    "modName": "directed_convergence",
+    "hotness": 0.00006516780710329097
+  },
+  {
+    "modName": "entropy_flight",
+    "hotness": 0.00006516780710329097
+  },
+  {
+    "modName": "indomitable_matrix",
+    "hotness": 0.00004887585532746823
+  },
+  {
+    "modName": "conic_nozzle",
+    "hotness": 0.00003258390355164549
+  },
+  {
+    "modName": "granums_nemesis",
+    "hotness": 0.00003258390355164549
+  },
+  {
+    "modName": "accelerated_deflection",
+    "hotness": 0
+  },
+  {
+    "modName": "afterburn",
+    "hotness": 0
   },
   {
     "modName": "air_thrusters",
@@ -3756,23 +1876,15 @@
     "hotness": 0
   },
   {
-    "modName": "armored_agility",
-    "hotness": 0
-  },
-  {
     "modName": "armored_evade",
     "hotness": 0
   },
   {
-    "modName": "avenging_truth",
+    "modName": "ballistic_bullseye",
     "hotness": 0
   },
   {
     "modName": "biting_piranha",
-    "hotness": 0
-  },
-  {
-    "modName": "bladed_rounds",
     "hotness": 0
   },
   {
@@ -3788,11 +1900,19 @@
     "hotness": 0
   },
   {
+    "modName": "catapult",
+    "hotness": 0
+  },
+  {
     "modName": "celestial_nightfall",
     "hotness": 0
   },
   {
     "modName": "comet_rounds",
+    "hotness": 0
+  },
+  {
+    "modName": "counter_pulse",
     "hotness": 0
   },
   {
@@ -3816,6 +1936,10 @@
     "hotness": 0
   },
   {
+    "modName": "despoil",
+    "hotness": 0
+  },
+  {
     "modName": "dividing_blades",
     "hotness": 0
   },
@@ -3824,11 +1948,7 @@
     "hotness": 0
   },
   {
-    "modName": "entropy_flight",
-    "hotness": 0
-  },
-  {
-    "modName": "fast_deflection",
+    "modName": "eleventh_storm",
     "hotness": 0
   },
   {
@@ -3848,15 +1968,11 @@
     "hotness": 0
   },
   {
-    "modName": "guardian",
-    "hotness": 0
-  },
-  {
-    "modName": "hata_satya",
-    "hotness": 0
-  },
-  {
     "modName": "heartseeker",
+    "hotness": 0
+  },
+  {
+    "modName": "homing_fang",
     "hotness": 0
   },
   {
@@ -3868,14 +1984,6 @@
     "hotness": 0
   },
   {
-    "modName": "inertia_dampeners",
-    "hotness": 0
-  },
-  {
-    "modName": "justice_blades",
-    "hotness": 0
-  },
-  {
     "modName": "lashing_coil",
     "hotness": 0
   },
@@ -3884,7 +1992,7 @@
     "hotness": 0
   },
   {
-    "modName": "lie_in_wait",
+    "modName": "lasting_purity",
     "hotness": 0
   },
   {
@@ -3904,8 +2012,1108 @@
     "hotness": 0
   },
   {
+    "modName": "mending_splinters",
+    "hotness": 0
+  },
+  {
     "modName": "meteor_munitions",
     "hotness": 0
+  },
+  {
+    "modName": "glacial_edge",
+    "hotness": -0.0001466275659824047
+  },
+  {
+    "modName": "cold_arrival",
+    "hotness": -0.0002932551319648094
+  },
+  {
+    "modName": "mad_stack",
+    "hotness": -0.0002932551319648094
+  },
+  {
+    "modName": "bomb_the_landin",
+    "hotness": -0.00035842293906810036
+  },
+  {
+    "modName": "lingering_torment",
+    "hotness": -0.00039100684261974585
+  },
+  {
+    "modName": "greedy_pull",
+    "hotness": -0.0008797653958944282
+  },
+  {
+    "modName": "blaze",
+    "hotness": -0.0013033561420658195
+  },
+  {
+    "modName": "cyclone_kraken",
+    "hotness": -0.0016291951775822744
+  },
+  {
+    "modName": "hammer_shot",
+    "hotness": -0.0061909416748126425
+  },
+  {
+    "modName": "mark_of_the_beast",
+    "hotness": -0.021179537308569567
+  },
+  {
+    "modName": "deadly_maneuvers",
+    "hotness": -0.022808732486151843
+  },
+  {
+    "modName": "ballista_measure",
+    "hotness": -0.023427826653633105
+  },
+  {
+    "modName": "crescent_charge",
+    "hotness": -0.026034538937764744
+  },
+  {
+    "modName": "crescent_devolution",
+    "hotness": -0.026034538937764744
+  },
+  {
+    "modName": "final_tap",
+    "hotness": -0.026034538937764744
+  },
+  {
+    "modName": "hard_engage",
+    "hotness": -0.02766373411534702
+  },
+  {
+    "modName": "meticulous_aim",
+    "hotness": -0.02766373411534702
+  },
+  {
+    "modName": "astral_autopsy",
+    "hotness": -0.030596285434995114
+  },
+  {
+    "modName": "draining_bite",
+    "hotness": -0.030922124470511566
+  },
+  {
+    "modName": "focused_acceleration",
+    "hotness": -0.031313131313131314
+  },
+  {
+    "modName": "double_tap",
+    "hotness": -0.031573802541544474
+  },
+  {
+    "modName": "grinloked",
+    "hotness": -0.031736722059302704
+  },
+  {
+    "modName": "malicious_code",
+    "hotness": -0.032225480612577385
+  },
+  {
+    "modName": "coolant_leak",
+    "hotness": -0.03225806451612903
+  },
+  {
+    "modName": "anabolic_pollination",
+    "hotness": -0.032811990876507005
+  },
+  {
+    "modName": "gorgon_frenzy",
+    "hotness": -0.03284457478005865
+  },
+  {
+    "modName": "draining_gloom",
+    "hotness": -0.0328771586836103
+  },
+  {
+    "modName": "adrenaline_boost",
+    "hotness": -0.033040078201368527
+  },
+  {
+    "modName": "hastened_steps",
+    "hotness": -0.03352883675464321
+  },
+  {
+    "modName": "blind_shot",
+    "hotness": -0.03385467579015966
+  },
+  {
+    "modName": "feathered_arrows",
+    "hotness": -0.04442815249266862
+  },
+  {
+    "modName": "firewall",
+    "hotness": -0.04833822091886608
+  },
+  {
+    "modName": "battle_stations",
+    "hotness": -0.049560117302052786
+  },
+  {
+    "modName": "fulmination",
+    "hotness": -0.05858585858585859
+  },
+  {
+    "modName": "blending_talons",
+    "hotness": -0.06379928315412187
+  },
+  {
+    "modName": "failsafe",
+    "hotness": -0.06477680026067123
+  },
+  {
+    "modName": "acidic_spittle",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "antimatter_mine",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "calculated_victory",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "defiled_reckoning",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "discharge_strike",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "emergent_aftermath",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "explosive_demise",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "heavy_warhead",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "kinetic_collision",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "auger_strike",
+    "hotness": -0.06608015640273705
+  },
+  {
+    "modName": "combo_killer",
+    "hotness": -0.08299120234604106
+  },
+  {
+    "modName": "focused_defense",
+    "hotness": -0.08396871945259042
+  },
+  {
+    "modName": "blood_for_energy",
+    "hotness": -0.09696969696969697
+  },
+  {
+    "modName": "blood_for_life",
+    "hotness": -0.09726295210166178
+  },
+  {
+    "modName": "adept_surge",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "argent_scourge",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "armored_recovery",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "calculated_spring",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "aero_agility",
+    "hotness": -0.10058651026392962
+  },
+  {
+    "modName": "cordon",
+    "hotness": -0.10742913000977516
+  },
+  {
+    "modName": "bane_of_corrupted",
+    "hotness": -0.14824046920821116
+  },
+  {
+    "modName": "auto_breach",
+    "hotness": -0.19374389051808408
+  },
+  {
+    "modName": "blood_for_ammo",
+    "hotness": -0.1949169110459433
+  },
+  {
+    "modName": "legendary_fusion_core",
+    "hotness": null
+  },
+  {
+    "modName": "narrow_minded",
+    "hotness": 0.2606060606060606
+  },
+  {
+    "modName": "transient_fortitude",
+    "hotness": 0.23460410557184752
+  },
+  {
+    "modName": "primed_flow",
+    "hotness": 0.14051808406647115
+  },
+  {
+    "modName": "rolling_guard",
+    "hotness": 0.11909416748126425
+  },
+  {
+    "modName": "primed_fever_strike",
+    "hotness": 0.07954545454545454
+  },
+  {
+    "modName": "primed_cryo_rounds",
+    "hotness": 0.062096774193548386
+  },
+  {
+    "modName": "necramech_vitality",
+    "hotness": 0.05278592375366569
+  },
+  {
+    "modName": "primed_pressure_point",
+    "hotness": 0.050806451612903224
+  },
+  {
+    "modName": "primed_target_cracker",
+    "hotness": 0.04875366568914956
+  },
+  {
+    "modName": "saxum_spittle",
+    "hotness": 0.04372759856630824
+  },
+  {
+    "modName": "primed_heated_charge",
+    "hotness": 0.039100684261974585
+  },
+  {
+    "modName": "primed_rubedo_lined_barrel",
+    "hotness": 0.03848973607038123
+  },
+  {
+    "modName": "primed_reach",
+    "hotness": 0.03421309872922776
+  },
+  {
+    "modName": "primed_pistol_gambit",
+    "hotness": 0.033602150537634407
+  },
+  {
+    "modName": "quickening",
+    "hotness": 0.03284457478005865
+  },
+  {
+    "modName": "primed_firestorm",
+    "hotness": 0.032551319648093845
+  },
+  {
+    "modName": "primed_ravage",
+    "hotness": 0.03225806451612903
+  },
+  {
+    "modName": "primed_rifle_ammo_mutation",
+    "hotness": 0.03225806451612903
+  },
+  {
+    "modName": "primed_fulmination",
+    "hotness": 0.02932551319648094
+  },
+  {
+    "modName": "necramech_steel_fiber",
+    "hotness": 0.0281524926686217
+  },
+  {
+    "modName": "pistol_amp",
+    "hotness": 0.0281524926686217
+  },
+  {
+    "modName": "necramech_thrusters",
+    "hotness": 0.027598566308243727
+  },
+  {
+    "modName": "primed_point_blank",
+    "hotness": 0.027126099706744868
+  },
+  {
+    "modName": "overextended",
+    "hotness": 0.026197458455522973
+  },
+  {
+    "modName": "necramech_redirection",
+    "hotness": 0.025219941348973606
+  },
+  {
+    "modName": "rime_rounds",
+    "hotness": 0.02346041055718475
+  },
+  {
+    "modName": "natural_talent",
+    "hotness": 0.022939068100358423
+  },
+  {
+    "modName": "particle_ram",
+    "hotness": 0.02215705441511893
+  },
+  {
+    "modName": "primed_tactical_pump",
+    "hotness": 0.02138318670576735
+  },
+  {
+    "modName": "primed_fast_hands",
+    "hotness": 0.020527859237536656
+  },
+  {
+    "modName": "primed_smite_grineer",
+    "hotness": 0.019550342130987292
+  },
+  {
+    "modName": "quickdraw",
+    "hotness": 0.019550342130987292
+  },
+  {
+    "modName": "pilfering_strangledome",
+    "hotness": 0.016943629846855653
+  },
+  {
+    "modName": "necramech_continuity",
+    "hotness": 0.016422287390029325
+  },
+  {
+    "modName": "primed_smite_corpus",
+    "hotness": 0.016129032258064516
+  },
+  {
+    "modName": "scattering_inferno",
+    "hotness": 0.015640273704789834
+  },
+  {
+    "modName": "saxum_carapace",
+    "hotness": 0.014613880742913001
+  },
+  {
+    "modName": "provoked",
+    "hotness": 0.014271749755620724
+  },
+  {
+    "modName": "piercing_hit",
+    "hotness": 0.012512218963831867
+  },
+  {
+    "modName": "primed_regen",
+    "hotness": 0.012096774193548387
+  },
+  {
+    "modName": "primed_smite_infested",
+    "hotness": 0.011803519061583577
+  },
+  {
+    "modName": "necramech_repair",
+    "hotness": 0.011730205278592375
+  },
+  {
+    "modName": "primed_morphic_transformer",
+    "hotness": 0.010654936461388074
+  },
+  {
+    "modName": "necramech_rage",
+    "hotness": 0.010166177908113392
+  },
+  {
+    "modName": "niras_hatred",
+    "hotness": 0.009775171065493646
+  },
+  {
+    "modName": "necramech_hydraulics",
+    "hotness": 0.008993157380254154
+  },
+  {
+    "modName": "sanctuary",
+    "hotness": 0.008927989573150864
+  },
+  {
+    "modName": "munitions_vortex",
+    "hotness": 0.008602150537634409
+  },
+  {
+    "modName": "phoenix_blaze",
+    "hotness": 0.00855327468230694
+  },
+  {
+    "modName": "primed_pack_leader",
+    "hotness": 0.008504398826979473
+  },
+  {
+    "modName": "primed_expel_corpus",
+    "hotness": 0.008064516129032258
+  },
+  {
+    "modName": "necramech_streamline",
+    "hotness": 0.007820136852394917
+  },
+  {
+    "modName": "razorwing_blitz",
+    "hotness": 0.007820136852394917
+  },
+  {
+    "modName": "retrieve",
+    "hotness": 0.007820136852394917
+  },
+  {
+    "modName": "niras_anguish",
+    "hotness": 0.007526881720430108
+  },
+  {
+    "modName": "neutron_star",
+    "hotness": 0.007168458781362007
+  },
+  {
+    "modName": "primed_expel_corrupted",
+    "hotness": 0.006842619745845552
+  },
+  {
+    "modName": "perfect_balance",
+    "hotness": 0.0064516129032258064
+  },
+  {
+    "modName": "prism_guard",
+    "hotness": 0.0064516129032258064
+  },
+  {
+    "modName": "necramech_intensify",
+    "hotness": 0.00635386119257087
+  },
+  {
+    "modName": "necramech_augur",
+    "hotness": 0.0063049853372434015
+  },
+  {
+    "modName": "primed_shotgun_ammo_mutation",
+    "hotness": 0.0063049853372434015
+  },
+  {
+    "modName": "primed_smite_corrupted",
+    "hotness": 0.005865102639296188
+  },
+  {
+    "modName": "rage",
+    "hotness": 0.005213424568263278
+  },
+  {
+    "modName": "ruinous_extension",
+    "hotness": 0.005131964809384164
+  },
+  {
+    "modName": "reflect",
+    "hotness": 0.004952753339850114
+  },
+  {
+    "modName": "necramech_deflection",
+    "hotness": 0.004887585532746823
+  },
+  {
+    "modName": "ordnance_cheap_shot",
+    "hotness": 0.004887585532746823
+  },
+  {
+    "modName": "piercing_caliber",
+    "hotness": 0.004887585532746823
+  },
+  {
+    "modName": "primed_heavy_trauma",
+    "hotness": 0.004887585532746823
+  },
+  {
+    "modName": "molecular_fission",
+    "hotness": 0.004724666014988596
+  },
+  {
+    "modName": "ravage",
+    "hotness": 0.004659498207885305
+  },
+  {
+    "modName": "primed_expel_grineer",
+    "hotness": 0.004398826979472141
+  },
+  {
+    "modName": "pistol_pestilence",
+    "hotness": 0.004235907461713913
+  },
+  {
+    "modName": "necramech_flow",
+    "hotness": 0.004105571847507331
+  },
+  {
+    "modName": "reflex_guard",
+    "hotness": 0.004007820136852395
+  },
+  {
+    "modName": "repelling_bastille",
+    "hotness": 0.003421309872922776
+  },
+  {
+    "modName": "redirection",
+    "hotness": 0.0033235581622678397
+  },
+  {
+    "modName": "primed_pistol_ammo_mutation",
+    "hotness": 0.0032746823069403717
+  },
+  {
+    "modName": "napalm_grenades",
+    "hotness": 0.0032583903551645487
+  },
+  {
+    "modName": "quick_thinking",
+    "hotness": 0.0032583903551645487
+  },
+  {
+    "modName": "regenerative_molt",
+    "hotness": 0.0032583903551645487
+  },
+  {
+    "modName": "primed_quickdraw",
+    "hotness": 0.0030547409579667643
+  },
+  {
+    "modName": "rapid_resilience",
+    "hotness": 0.002997719126751385
+  },
+  {
+    "modName": "primed_magazine_warp",
+    "hotness": 0.002761485826001955
+  },
+  {
+    "modName": "necramech_refuel",
+    "hotness": 0.002737047898338221
+  },
+  {
+    "modName": "rift_strike",
+    "hotness": 0.002688172043010753
+  },
+  {
+    "modName": "panzer_devolution",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "reawaken",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "sacrifice",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "photon_repeater",
+    "hotness": 0.002541544477028348
+  },
+  {
+    "modName": "pathogen_rounds",
+    "hotness": 0.0024437927663734115
+  },
+  {
+    "modName": "primed_sniper_ammo_mutation",
+    "hotness": 0.0024437927663734115
+  },
+  {
+    "modName": "radiant_finish",
+    "hotness": 0.0024437927663734115
+  },
+  {
+    "modName": "overview",
+    "hotness": 0.002346041055718475
+  },
+  {
+    "modName": "sabot_rounds",
+    "hotness": 0.002280873248615184
+  },
+  {
+    "modName": "primed_expel_infested",
+    "hotness": 0.0021994134897360706
+  },
+  {
+    "modName": "primed_slip_magazine",
+    "hotness": 0.002174975562072336
+  },
+  {
+    "modName": "razor_shot",
+    "hotness": 0.002150537634408602
+  },
+  {
+    "modName": "reflex_denial",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "rending_crane",
+    "hotness": 0.0017595307917888563
+  },
+  {
+    "modName": "reflex_draw",
+    "hotness": 0.001710654936461388
+  },
+  {
+    "modName": "niras_contempt",
+    "hotness": 0.0016943629846855653
+  },
+  {
+    "modName": "necramech_blitz",
+    "hotness": 0.0016617790811339198
+  },
+  {
+    "modName": "parry",
+    "hotness": 0.0016617790811339198
+  },
+  {
+    "modName": "negate",
+    "hotness": 0.0016291951775822744
+  },
+  {
+    "modName": "reactive_storm",
+    "hotness": 0.0016291951775822744
+  },
+  {
+    "modName": "savage_silence",
+    "hotness": 0.0015966112740306289
+  },
+  {
+    "modName": "neutralize",
+    "hotness": 0.0015640273704789834
+  },
+  {
+    "modName": "narrow_barrel",
+    "hotness": 0.0014988595633756924
+  },
+  {
+    "modName": "protect",
+    "hotness": 0.0014988595633756924
+  },
+  {
+    "modName": "mobilize",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "physique",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "motus_impact",
+    "hotness": 0.001270772238514174
+  },
+  {
+    "modName": "rending_turn",
+    "hotness": 0.001270772238514174
+  },
+  {
+    "modName": "necramech_efficiency",
+    "hotness": 0.0012218963831867058
+  },
+  {
+    "modName": "necramech_drift",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "reach",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "rebound",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "safeguard",
+    "hotness": 0.0011078527207559466
+  },
+  {
+    "modName": "no_return",
+    "hotness": 0.001075268817204301
+  },
+  {
+    "modName": "quicklock",
+    "hotness": 0.001075268817204301
+  },
+  {
+    "modName": "repair_dispensary",
+    "hotness": 0.001075268817204301
+  },
+  {
+    "modName": "sawtooth_clip",
+    "hotness": 0.001075268817204301
+  },
+  {
+    "modName": "saxum_thorax",
+    "hotness": 0.001075268817204301
+  },
+  {
+    "modName": "purifying_flames",
+    "hotness": 0.0010426849136526556
+  },
+  {
+    "modName": "north_wind",
+    "hotness": 0.0010263929618768328
+  },
+  {
+    "modName": "nano_applicator",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "necramech_aviator",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "pistol_ammo_mutation",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "pyroclastic_flow",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "rift_torrent",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "motus_signal",
+    "hotness": 0.0008797653958944282
+  },
+  {
+    "modName": "necramech_enemy_sense",
+    "hotness": 0.0008797653958944282
+  },
+  {
+    "modName": "raider_matrix",
+    "hotness": 0.0008797653958944282
+  },
+  {
+    "modName": "peaceful_provocation",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "rail_guards",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "relentless_combination",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "revenge",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "pack_leader",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "proton_pulse",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "ripload",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "rupture",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "nebula_bore",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "necramech_seismic_wave",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "phoenix_renewal",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "rising_storm",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "quick_reload",
+    "hotness": 0.000635386119257087
+  },
+  {
+    "modName": "necramech_fury",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "negation_swarm",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "nightwatch_napalm",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "parallax_scope",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "perpetual_agony",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "quick_return",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "reflection",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "regen",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "repair_kit",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "necramech_rebuke",
+    "hotness": 0.0005376344086021505
+  },
+  {
+    "modName": "ore_gaze",
+    "hotness": 0.0005213424568263278
+  },
+  {
+    "modName": "morphic_transformer",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "necramech_friction",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "necramech_reach",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "piercing_roar",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "repeater_clip",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "rifle_aptitude",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "rifle_scavenger",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "rumbled",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "rending_strike",
+    "hotness": 0.0004561746497230368
+  },
+  {
+    "modName": "revealing_spores",
+    "hotness": 0.0004561746497230368
+  },
+  {
+    "modName": "modified_munitions",
+    "hotness": 0.0004398826979472141
+  },
+  {
+    "modName": "resolute_focus",
+    "hotness": 0.0004398826979472141
+  },
+  {
+    "modName": "proton_snap",
+    "hotness": 0.00042359074617139133
+  },
+  {
+    "modName": "necramech_slipstream",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "necramech_stretch",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "null_audit",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "orgone_tuning_matrix",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "piercing_step",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "pilfering_swarm",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "pistol_gambit",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "quasar_drill",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "resonance",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "molten_impact",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "protective_shots",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "reflex_coil",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "rush",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "path_of_statues",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "piercing_navigator",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "purging_slash",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "rifle_ammo_mutation",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "savior_decoy",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "necramech_pressure_point",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "onslaught_matrix",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "patagium",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "primo_flair",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "proton_jet",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "rubedo_lined_barrel",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "mischief",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "pummel",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "revo_reducer",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "reaping_spiral",
+    "hotness": 0.0002280873248615184
+  },
+  {
+    "modName": "motus_setup",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "nitro_boost",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "rejuvenation",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "retribution",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "pacifying_bolts",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "prolonged_paralysis",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "savagery",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "pain_threshold",
+    "hotness": 0.00013033561420658195
+  },
+  {
+    "modName": "reinforcing_stomp",
+    "hotness": 0.00013033561420658195
+  },
+  {
+    "modName": "partitioned_mallet",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "resonating_quake",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "rifle_amp",
+    "hotness": 0.00004887585532746823
+  },
+  {
+    "modName": "reaping_chakram",
+    "hotness": 0.00003258390355164549
+  },
+  {
+    "modName": "rift_haven",
+    "hotness": 0.00003258390355164549
   },
   {
     "modName": "molecular_conversion",
@@ -3913,10 +3121,6 @@
   },
   {
     "modName": "night_stalker",
-    "hotness": 0
-  },
-  {
-    "modName": "nitro_boost",
     "hotness": 0
   },
   {
@@ -3933,22 +3137,6 @@
   },
   {
     "modName": "overcharged",
-    "hotness": 0
-  },
-  {
-    "modName": "piercing_fury",
-    "hotness": 0
-  },
-  {
-    "modName": "pilfering_swarm",
-    "hotness": 0
-  },
-  {
-    "modName": "point_strike",
-    "hotness": 0
-  },
-  {
-    "modName": "primal_rage",
     "hotness": 0
   },
   {
@@ -3980,6 +3168,1138 @@
     "hotness": 0
   },
   {
+    "modName": "scattered_justice",
+    "hotness": -0.00006516780710329097
+  },
+  {
+    "modName": "muzzle_flash",
+    "hotness": -0.00009775171065493646
+  },
+  {
+    "modName": "neutralizing_justice",
+    "hotness": -0.00013033561420658195
+  },
+  {
+    "modName": "repo_audit",
+    "hotness": -0.00013033561420658195
+  },
+  {
+    "modName": "odomedic",
+    "hotness": -0.00016291951775822744
+  },
+  {
+    "modName": "quick_escape",
+    "hotness": -0.00019550342130987292
+  },
+  {
+    "modName": "paralytic_spores",
+    "hotness": -0.026034538937764744
+  },
+  {
+    "modName": "range_advantage",
+    "hotness": -0.02932551319648094
+  },
+  {
+    "modName": "safeguard_switch",
+    "hotness": -0.031573802541544474
+  },
+  {
+    "modName": "naramon_transmute_core",
+    "hotness": -0.03189964157706093
+  },
+  {
+    "modName": "proboscis",
+    "hotness": -0.03189964157706093
+  },
+  {
+    "modName": "recharge_barrier",
+    "hotness": -0.032225480612577385
+  },
+  {
+    "modName": "out_of_sight",
+    "hotness": -0.032388400130335615
+  },
+  {
+    "modName": "mortal_conduct",
+    "hotness": -0.03294232649071359
+  },
+  {
+    "modName": "ordnance_velocity",
+    "hotness": -0.05858585858585859
+  },
+  {
+    "modName": "momentary_pause",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "prize_kill",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "quick_charge",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "recover",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "rime_vault",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "sapping_reach",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "scan_lifeforms",
+    "hotness": -0.07810361681329424
+  },
+  {
+    "modName": "scan_matter",
+    "hotness": -0.07810361681329424
+  },
+  {
+    "modName": "overloader",
+    "hotness": -0.0967741935483871
+  },
+  {
+    "modName": "peculiar_audience",
+    "hotness": null
+  },
+  {
+    "modName": "peculiar_bloom",
+    "hotness": null
+  },
+  {
+    "modName": "peculiar_growth",
+    "hotness": null
+  },
+  {
+    "modName": "primed_charged_shell",
+    "hotness": 0.10303030303030303
+  },
+  {
+    "modName": "primed_continuity",
+    "hotness": 0.09408602150537634
+  },
+  {
+    "modName": "tek_assault",
+    "hotness": 0.08064516129032258
+  },
+  {
+    "modName": "preparation",
+    "hotness": 0.07494297816878462
+  },
+  {
+    "modName": "wise_razor",
+    "hotness": 0.07492668621700879
+  },
+  {
+    "modName": "primed_chilling_grasp",
+    "hotness": 0.04472140762463343
+  },
+  {
+    "modName": "primed_ammo_stock",
+    "hotness": 0.0375366568914956
+  },
+  {
+    "modName": "system_reroute",
+    "hotness": 0.032551319648093845
+  },
+  {
+    "modName": "primed_animal_instinct",
+    "hotness": 0.031451612903225803
+  },
+  {
+    "modName": "weeping_wounds",
+    "hotness": 0.03128054740957967
+  },
+  {
+    "modName": "toxic_flight",
+    "hotness": 0.03075920495275334
+  },
+  {
+    "modName": "precision_strike",
+    "hotness": 0.028934506353861193
+  },
+  {
+    "modName": "primed_cleanse_grineer",
+    "hotness": 0.023655913978494623
+  },
+  {
+    "modName": "vile_acceleration",
+    "hotness": 0.02287390029325513
+  },
+  {
+    "modName": "primed_bane_of_grineer",
+    "hotness": 0.020527859237536656
+  },
+  {
+    "modName": "seeker_volley",
+    "hotness": 0.020283479960899315
+  },
+  {
+    "modName": "thermite_rounds",
+    "hotness": 0.019843597262952102
+  },
+  {
+    "modName": "vigilante_armaments",
+    "hotness": 0.01935483870967742
+  },
+  {
+    "modName": "primed_cleanse_corrupted",
+    "hotness": 0.01906158357771261
+  },
+  {
+    "modName": "primed_cleanse_infested",
+    "hotness": 0.018963831867057673
+  },
+  {
+    "modName": "shell_shock",
+    "hotness": 0.018246985988921473
+  },
+  {
+    "modName": "warhead",
+    "hotness": 0.015542521994134898
+  },
+  {
+    "modName": "twirling_spire",
+    "hotness": 0.015053763440860216
+  },
+  {
+    "modName": "shell_rush",
+    "hotness": 0.014418377321603127
+  },
+  {
+    "modName": "power_drift",
+    "hotness": 0.01407624633431085
+  },
+  {
+    "modName": "primed_bane_of_infested",
+    "hotness": 0.013685239491691105
+  },
+  {
+    "modName": "serration",
+    "hotness": 0.013685239491691105
+  },
+  {
+    "modName": "steel_charge",
+    "hotness": 0.013196480938416423
+  },
+  {
+    "modName": "vigorous_swap",
+    "hotness": 0.012870641902899967
+  },
+  {
+    "modName": "vigilante_supplies",
+    "hotness": 0.012121212121212121
+  },
+  {
+    "modName": "vapor_trail",
+    "hotness": 0.011730205278592375
+  },
+  {
+    "modName": "stalking_fan",
+    "hotness": 0.01163245356793744
+  },
+  {
+    "modName": "void_hole",
+    "hotness": 0.011241446725317693
+  },
+  {
+    "modName": "vitality",
+    "hotness": 0.00997067448680352
+  },
+  {
+    "modName": "synth_deconstruct",
+    "hotness": 0.009579667644183774
+  },
+  {
+    "modName": "tainted_mag",
+    "hotness": 0.009481915933528836
+  },
+  {
+    "modName": "sure_footed",
+    "hotness": 0.009449332029977192
+  },
+  {
+    "modName": "thrall_pact",
+    "hotness": 0.008797653958944282
+  },
+  {
+    "modName": "vicious_frost",
+    "hotness": 0.008797653958944282
+  },
+  {
+    "modName": "primed_cleanse_corpus",
+    "hotness": 0.00843108504398827
+  },
+  {
+    "modName": "tek_enhance",
+    "hotness": 0.008211143695014663
+  },
+  {
+    "modName": "speed_drift",
+    "hotness": 0.007494297816878462
+  },
+  {
+    "modName": "true_punishment",
+    "hotness": 0.007429130009775171
+  },
+  {
+    "modName": "toxic_barrage",
+    "hotness": 0.007038123167155425
+  },
+  {
+    "modName": "swift_momentum",
+    "hotness": 0.006777451938742261
+  },
+  {
+    "modName": "primed_bane_of_corpus",
+    "hotness": 0.006598240469208211
+  },
+  {
+    "modName": "vigilante_pursuit",
+    "hotness": 0.006598240469208211
+  },
+  {
+    "modName": "synth_charge",
+    "hotness": 0.0062561094819159335
+  },
+  {
+    "modName": "sly_devolution",
+    "hotness": 0.005865102639296188
+  },
+  {
+    "modName": "turret_velocity",
+    "hotness": 0.005865102639296188
+  },
+  {
+    "modName": "vermillion_storm",
+    "hotness": 0.005865102639296188
+  },
+  {
+    "modName": "primal_rage",
+    "hotness": 0.005702183121537961
+  },
+  {
+    "modName": "primed_bane_of_corrupted",
+    "hotness": 0.005571847507331379
+  },
+  {
+    "modName": "shepherd",
+    "hotness": 0.005474095796676442
+  },
+  {
+    "modName": "tether",
+    "hotness": 0.004887585532746823
+  },
+  {
+    "modName": "vicious_spread",
+    "hotness": 0.004887585532746823
+  },
+  {
+    "modName": "slip_magazine",
+    "hotness": 0.00469208211143695
+  },
+  {
+    "modName": "shelter",
+    "hotness": 0.004594330400782014
+  },
+  {
+    "modName": "spectrosiphon",
+    "hotness": 0.004561746497230368
+  },
+  {
+    "modName": "spring_loaded_chamber",
+    "hotness": 0.004545454545454545
+  },
+  {
+    "modName": "volcanic_edge",
+    "hotness": 0.004431410883023786
+  },
+  {
+    "modName": "sharpshooter",
+    "hotness": 0.004235907461713913
+  },
+  {
+    "modName": "virulent_scourge",
+    "hotness": 0.004235907461713913
+  },
+  {
+    "modName": "vigor",
+    "hotness": 0.003812316715542522
+  },
+  {
+    "modName": "smite_corrupted",
+    "hotness": 0.0037145650048875855
+  },
+  {
+    "modName": "split_chamber",
+    "hotness": 0.0037145650048875855
+  },
+  {
+    "modName": "steel_fiber",
+    "hotness": 0.003616813294232649
+  },
+  {
+    "modName": "squad_renew",
+    "hotness": 0.003421309872922776
+  },
+  {
+    "modName": "synth_fiber",
+    "hotness": 0.003421309872922776
+  },
+  {
+    "modName": "sovereign_outcast",
+    "hotness": 0.0031932225480612577
+  },
+  {
+    "modName": "shrapnel_shot",
+    "hotness": 0.002932551319648094
+  },
+  {
+    "modName": "tainted_shell",
+    "hotness": 0.002867383512544803
+  },
+  {
+    "modName": "seismic_wave",
+    "hotness": 0.002737047898338221
+  },
+  {
+    "modName": "tempo_royale",
+    "hotness": 0.002737047898338221
+  },
+  {
+    "modName": "shotgun_amp",
+    "hotness": 0.002688172043010753
+  },
+  {
+    "modName": "secondary_wind",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "total_eclipse",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "viral_quills",
+    "hotness": 0.002606712284131639
+  },
+  {
+    "modName": "spoiled_strike",
+    "hotness": 0.002541544477028348
+  },
+  {
+    "modName": "pistol_scavenger",
+    "hotness": 0.0024437927663734115
+  },
+  {
+    "modName": "tranquil_cleave",
+    "hotness": 0.0024437927663734115
+  },
+  {
+    "modName": "terminal_velocity",
+    "hotness": 0.002346041055718475
+  },
+  {
+    "modName": "seeking_shuriken",
+    "hotness": 0.002280873248615184
+  },
+  {
+    "modName": "strain_eruption",
+    "hotness": 0.0022482893450635386
+  },
+  {
+    "modName": "volatile_quick_return",
+    "hotness": 0.0021994134897360706
+  },
+  {
+    "modName": "shatter_burst",
+    "hotness": 0.002150537634408602
+  },
+  {
+    "modName": "volatile_rebound",
+    "hotness": 0.0021179537308569567
+  },
+  {
+    "modName": "shotgun_ammo_mutation",
+    "hotness": 0.002085369827305311
+  },
+  {
+    "modName": "targeting_subsystem",
+    "hotness": 0.0020527859237536657
+  },
+  {
+    "modName": "vigilante_offense",
+    "hotness": 0.0020527859237536657
+  },
+  {
+    "modName": "swooping_falcon",
+    "hotness": 0.0019550342130987292
+  },
+  {
+    "modName": "pounce",
+    "hotness": 0.001906158357771261
+  },
+  {
+    "modName": "vigilante_fervor",
+    "hotness": 0.0018572825024437928
+  },
+  {
+    "modName": "vital_sense",
+    "hotness": 0.0018246985988921473
+  },
+  {
+    "modName": "synergized_prospectus",
+    "hotness": 0.0017921146953405018
+  },
+  {
+    "modName": "searing_steel",
+    "hotness": 0.0016291951775822744
+  },
+  {
+    "modName": "shield_of_shadows",
+    "hotness": 0.0016291951775822744
+  },
+  {
+    "modName": "split_flights",
+    "hotness": 0.0016291951775822744
+  },
+  {
+    "modName": "silent_battery",
+    "hotness": 0.0015640273704789834
+  },
+  {
+    "modName": "spring_loaded_broadhead",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "swift_bite",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "vengeful_revenant",
+    "hotness": 0.001466275659824047
+  },
+  {
+    "modName": "shock_trooper",
+    "hotness": 0.0013685239491691105
+  },
+  {
+    "modName": "shotgun_spazz",
+    "hotness": 0.0013685239491691105
+  },
+  {
+    "modName": "venomous_clip",
+    "hotness": 0.0013196480938416422
+  },
+  {
+    "modName": "vulcan_blitz",
+    "hotness": 0.0013196480938416422
+  },
+  {
+    "modName": "smoke_shadow",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "static_discharge",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "surging_blades",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "titanic_rumbler",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "wild_frenzy",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "zazvat_kar",
+    "hotness": 0.0013033561420658195
+  },
+  {
+    "modName": "tempered_blade",
+    "hotness": 0.001270772238514174
+  },
+  {
+    "modName": "scorch",
+    "hotness": 0.0012381883349625285
+  },
+  {
+    "modName": "stand_united",
+    "hotness": 0.0012218963831867058
+  },
+  {
+    "modName": "shattering_justice",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "stretch",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "sudden_impact",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "swipe",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "trick_mag",
+    "hotness": 0.0011730205278592375
+  },
+  {
+    "modName": "singularity",
+    "hotness": 0.001140436624307592
+  },
+  {
+    "modName": "stabilizer",
+    "hotness": 0.001140436624307592
+  },
+  {
+    "modName": "slicing_feathers",
+    "hotness": 0.0010426849136526556
+  },
+  {
+    "modName": "stinging_thorn",
+    "hotness": 0.0010426849136526556
+  },
+  {
+    "modName": "sniper_scavenger",
+    "hotness": 0.0010263929618768328
+  },
+  {
+    "modName": "stinging_truth",
+    "hotness": 0.00101010101010101
+  },
+  {
+    "modName": "power_of_three",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "scavenge",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "sense_danger",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "soft_hands",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "surging_dash",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "target_fixation",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "vigilante_vigor",
+    "hotness": 0.0009775171065493646
+  },
+  {
+    "modName": "sniper_ammo_mutation",
+    "hotness": 0.0009123492994460736
+  },
+  {
+    "modName": "streamline",
+    "hotness": 0.0009123492994460736
+  },
+  {
+    "modName": "stunning_speed",
+    "hotness": 0.0009123492994460736
+  },
+  {
+    "modName": "venom_dose",
+    "hotness": 0.0009123492994460736
+  },
+  {
+    "modName": "vaporize",
+    "hotness": 0.0008797653958944282
+  },
+  {
+    "modName": "sweeping_serration",
+    "hotness": 0.0008471814923427827
+  },
+  {
+    "modName": "toxin_resistance",
+    "hotness": 0.0008308895405669599
+  },
+  {
+    "modName": "vampiric_grasp",
+    "hotness": 0.0008145975887911372
+  },
+  {
+    "modName": "primed_chamber",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "shattering_impact",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "spare_parts",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "stalk",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "stormbringer",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "true_steel",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "wildfire",
+    "hotness": 0.0007820136852394917
+  },
+  {
+    "modName": "seeking_force",
+    "hotness": 0.0007168458781362007
+  },
+  {
+    "modName": "shredder",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "spry_sights",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "thiefs_wit",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "thumper",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "thunderbolt",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "twitch",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "vile_precision",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "void_cloak",
+    "hotness": 0.0006842619745845552
+  },
+  {
+    "modName": "skull_shots_(viper)",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "soul_survivor",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "stealth_drift",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "winds_of_purity",
+    "hotness": 0.0006516780710329097
+  },
+  {
+    "modName": "shattering_storm",
+    "hotness": 0.000635386119257087
+  },
+  {
+    "modName": "polar_magazine",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "power_throw",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "seeker",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "smite_corpus",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "suppress",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "synth_reflex",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "target_cracker",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "vacuum",
+    "hotness": 0.0005865102639296188
+  },
+  {
+    "modName": "vile_discharge",
+    "hotness": 0.0005539263603779733
+  },
+  {
+    "modName": "smite_infested",
+    "hotness": 0.0005376344086021505
+  },
+  {
+    "modName": "self_destruct",
+    "hotness": 0.0005213424568263278
+  },
+  {
+    "modName": "shocking_speed",
+    "hotness": 0.0005213424568263278
+  },
+  {
+    "modName": "zodiac_shred",
+    "hotness": 0.0005213424568263278
+  },
+  {
+    "modName": "poisonous_sting",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "smite_infusion",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "sure_shot",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "the_relentless_lost",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "trail_blazer",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "tribunal",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "warm_coat",
+    "hotness": 0.0004887585532746823
+  },
+  {
+    "modName": "thermal_transfer",
+    "hotness": 0.0004561746497230368
+  },
+  {
+    "modName": "whirlwind",
+    "hotness": 0.00042359074617139133
+  },
+  {
+    "modName": "pop_top",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "scourging_warheads",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "section_density",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "sharpened_bullets",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "shell_compression",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "shotgun_savvy",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "snap_shot",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "stockpiled_blight",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "tactical_reload",
+    "hotness": 0.00039100684261974585
+  },
+  {
+    "modName": "sonic_fracture",
+    "hotness": 0.00035842293906810036
+  },
+  {
+    "modName": "tek_gravity",
+    "hotness": 0.00035842293906810036
+  },
+  {
+    "modName": "tesla_bank",
+    "hotness": 0.00035842293906810036
+  },
+  {
+    "modName": "transistor_shield",
+    "hotness": 0.00035842293906810036
+  },
+  {
+    "modName": "worms_torment",
+    "hotness": 0.00035842293906810036
+  },
+  {
+    "modName": "point_blank",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "sharpened_claws",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "smite_grineer",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "speed_trigger",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "superior_defenses",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "waveband_disruptor",
+    "hotness": 0.0003421309872922776
+  },
+  {
+    "modName": "pool_of_life",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "spellbound_harvest",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "staggering_shield",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "streamlined_form",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "tidal_impunity",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "unleashed",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "vampire_leech",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "volatile_parasite",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "votive_onslaught",
+    "hotness": 0.00032583903551645487
+  },
+  {
+    "modName": "pressure_point",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "shield_disruption",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "shocking_touch",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "shotgun_scavenger",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "swirling_tiger",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "tactical_pump",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "tainted_clip",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "toxic_blight",
+    "hotness": 0.0002932551319648094
+  },
+  {
+    "modName": "sentient_scalpel",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "steady_hands",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "sundering_strike",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "tek_collateral",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "undying_will",
+    "hotness": 0.0002606712284131639
+  },
+  {
+    "modName": "shimmering_blight",
+    "hotness": 0.00024437927663734115
+  },
+  {
+    "modName": "sinister_reach",
+    "hotness": 0.00024437927663734115
+  },
+  {
+    "modName": "shield_charger",
+    "hotness": 0.0002280873248615184
+  },
+  {
+    "modName": "vexing_retaliation",
+    "hotness": 0.0002280873248615184
+  },
+  {
+    "modName": "predator",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "slay_board",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "territorial_aggression",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "thermagnetic_shells",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "venari_bodyguard",
+    "hotness": 0.00019550342130987292
+  },
+  {
+    "modName": "seeking_fury",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "sequence_burn",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "swing_line",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "target_acquired",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "warding_thurible",
+    "hotness": 0.00016291951775822744
+  },
+  {
+    "modName": "sinking_talon",
+    "hotness": 0.0001466275659824047
+  },
+  {
+    "modName": "sundering_weave",
+    "hotness": 0.0001466275659824047
+  },
+  {
+    "modName": "poppin_vert",
+    "hotness": 0.00013033561420658195
+  },
+  {
+    "modName": "vulpine_mask",
+    "hotness": 0.00013033561420658195
+  },
+  {
+    "modName": "seismic_palm",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "shock_absorbers",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "spinning_needle",
+    "hotness": 0.00009775171065493646
+  },
+  {
+    "modName": "strafing_slide",
+    "hotness": 0.00006516780710329097
+  },
+  {
+    "modName": "strain_consume",
+    "hotness": 0.00006516780710329097
+  },
+  {
+    "modName": "tether_grenades",
+    "hotness": 0.00006516780710329097
+  },
+  {
+    "modName": "voltage_sequence",
+    "hotness": 0.00006516780710329097
+  },
+  {
+    "modName": "lie_in_wait",
+    "hotness": 0
+  },
+  {
+    "modName": "lightning_rod",
+    "hotness": 0
+  },
+  {
+    "modName": "piercing_fury",
+    "hotness": 0
+  },
+  {
+    "modName": "pointed_wind",
+    "hotness": 0
+  },
+  {
+    "modName": "power_donation",
+    "hotness": 0
+  },
+  {
     "modName": "serrated_edges",
     "hotness": 0
   },
@@ -3992,10 +4312,6 @@
     "hotness": 0
   },
   {
-    "modName": "shimmering_blight",
-    "hotness": 0
-  },
-  {
     "modName": "shockwave_actuators",
     "hotness": 0
   },
@@ -4004,7 +4320,15 @@
     "hotness": 0
   },
   {
+    "modName": "spring_loaded_blade",
+    "hotness": 0
+  },
+  {
     "modName": "stasis_field",
+    "hotness": 0
+  },
+  {
+    "modName": "strain_fever",
     "hotness": 0
   },
   {
@@ -4012,15 +4336,11 @@
     "hotness": 0
   },
   {
-    "modName": "tactical_pump",
-    "hotness": 0
-  },
-  {
     "modName": "tainted_hydra",
     "hotness": 0
   },
   {
-    "modName": "tek_enhance",
+    "modName": "teeming_virulence",
     "hotness": 0
   },
   {
@@ -4032,623 +4352,303 @@
     "hotness": 0
   },
   {
+    "modName": "venom_teeth",
+    "hotness": 0
+  },
+  {
     "modName": "vicious_approach",
     "hotness": 0
   },
   {
-    "modName": "conductor",
-    "hotness": -1
-  },
-  {
-    "modName": "deceptive_bond",
-    "hotness": -1
-  },
-  {
-    "modName": "mag_locks",
-    "hotness": -1
-  },
-  {
-    "modName": "pool_of_life",
-    "hotness": -1
-  },
-  {
-    "modName": "pop_top",
-    "hotness": -1
-  },
-  {
-    "modName": "poppin_vert",
-    "hotness": -1
-  },
-  {
-    "modName": "primo_flair",
-    "hotness": -1
-  },
-  {
-    "modName": "rail_guards",
-    "hotness": -1
-  },
-  {
-    "modName": "air_time",
-    "hotness": -2
-  },
-  {
-    "modName": "immolated_radiance",
-    "hotness": -2
-  },
-  {
-    "modName": "kinetic_friction",
-    "hotness": -2
-  },
-  {
-    "modName": "slay_board",
-    "hotness": -2
-  },
-  {
-    "modName": "targeting_subsystem",
-    "hotness": -2
-  },
-  {
-    "modName": "vexing_retaliation",
-    "hotness": -2
-  },
-  {
-    "modName": "martyr_symbiosis",
-    "hotness": -3
-  },
-  {
-    "modName": "lingering_torment",
-    "hotness": -4
-  },
-  {
-    "modName": "catalyzer_link",
-    "hotness": -5
-  },
-  {
-    "modName": "fatal_attraction",
-    "hotness": -5
-  },
-  {
     "modName": "venerdo_hoverdrive",
-    "hotness": -6
+    "hotness": -0.00009775171065493646
   },
   {
-    "modName": "mad_stack",
-    "hotness": -7
+    "modName": "hysterical_assault",
+    "hotness": -0.00016291951775822744
   },
   {
-    "modName": "cold_arrival",
-    "hotness": -9
+    "modName": "toxic_sequence",
+    "hotness": -0.00016291951775822744
   },
   {
     "modName": "thrash_landing",
-    "hotness": -10
+    "hotness": -0.00019550342130987292
   },
   {
-    "modName": "total_eclipse",
-    "hotness": -14
+    "modName": "point_strike",
+    "hotness": -0.0002932551319648094
   },
   {
-    "modName": "bomb_the_landin",
-    "hotness": -16
+    "modName": "inertia_dampeners",
+    "hotness": -0.0003421309872922776
   },
   {
     "modName": "sonic_boost",
-    "hotness": -21
+    "hotness": -0.00035842293906810036
   },
   {
-    "modName": "rifle_aptitude",
-    "hotness": -30
+    "modName": "voltaic_strike",
+    "hotness": -0.00039100684261974585
   },
   {
-    "modName": "butchers_revelry",
-    "hotness": -40
+    "modName": "infested_impedance",
+    "hotness": -0.0004887585532746823
   },
   {
-    "modName": "extreme_velocity",
-    "hotness": -42
+    "modName": "strain_infection",
+    "hotness": -0.001140436624307592
   },
   {
-    "modName": "peculiar_audience",
-    "hotness": -50
+    "modName": "jolt",
+    "hotness": -0.0030303030303030303
   },
   {
-    "modName": "rifle_scavenger",
-    "hotness": -88
+    "modName": "sprint_boost",
+    "hotness": -0.0039100684261974585
   },
   {
-    "modName": "napalm_grenades",
-    "hotness": -95
-  },
-  {
-    "modName": "hammer_shot",
-    "hotness": -125
-  },
-  {
-    "modName": "acidic_spittle",
-    "hotness": -799
-  },
-  {
-    "modName": "anabolic_pollination",
-    "hotness": -799
-  },
-  {
-    "modName": "crescent_charge",
-    "hotness": -799
-  },
-  {
-    "modName": "crescent_devolution",
-    "hotness": -799
-  },
-  {
-    "modName": "explosive_demise",
-    "hotness": -799
-  },
-  {
-    "modName": "final_tap",
-    "hotness": -799
+    "modName": "high_voltage",
+    "hotness": -0.013229064841968069
   },
   {
     "modName": "iatric_mycelium",
-    "hotness": -799
+    "hotness": -0.026034538937764744
   },
   {
-    "modName": "infectious_bite",
-    "hotness": -799
-  },
-  {
-    "modName": "paralytic_spores",
-    "hotness": -799
-  },
-  {
-    "modName": "scan_lifeforms",
-    "hotness": -799
-  },
-  {
-    "modName": "sly_devolution",
-    "hotness": -799
-  },
-  {
-    "modName": "survival_instinct",
-    "hotness": -799
-  },
-  {
-    "modName": "panzer_devolution",
-    "hotness": -809
-  },
-  {
-    "modName": "hard_engage",
-    "hotness": -849
-  },
-  {
-    "modName": "auto_omni",
-    "hotness": -854
-  },
-  {
-    "modName": "cordon",
-    "hotness": -859
-  },
-  {
-    "modName": "anti_grav_array",
-    "hotness": -899
-  },
-  {
-    "modName": "measured_burst",
-    "hotness": -899
-  },
-  {
-    "modName": "secondary_wind",
-    "hotness": -899
-  },
-  {
-    "modName": "calculated_shot",
-    "hotness": -900
-  },
-  {
-    "modName": "scan_matter",
-    "hotness": -900
-  },
-  {
-    "modName": "deft_tempo",
-    "hotness": -909
-  },
-  {
-    "modName": "feathered_arrows",
-    "hotness": -909
-  },
-  {
-    "modName": "hydraulic_barrel",
-    "hotness": -909
-  },
-  {
-    "modName": "naramon_transmute_core",
-    "hotness": -922
-  },
-  {
-    "modName": "security_override",
-    "hotness": -922
-  },
-  {
-    "modName": "whiplash_mine",
-    "hotness": -922
-  },
-  {
-    "modName": "final_act",
-    "hotness": -929
+    "modName": "transfusion",
+    "hotness": -0.02766373411534702
   },
   {
     "modName": "static_alacrity_(staticor)",
-    "hotness": -929
+    "hotness": -0.030270446399478658
   },
   {
     "modName": "vital_systems_bypass",
-    "hotness": -929
+    "hotness": -0.030270446399478658
   },
   {
-    "modName": "targeting_receptor",
-    "hotness": -934
+    "modName": "shock_collar",
+    "hotness": -0.03124796350602802
   },
   {
-    "modName": "astral_autopsy",
-    "hotness": -939
+    "modName": "infectious_bite",
+    "hotness": -0.031573802541544474
+  },
+  {
+    "modName": "survival_instinct",
+    "hotness": -0.031736722059302704
   },
   {
     "modName": "trample",
-    "hotness": -949
+    "hotness": -0.031736722059302704
   },
   {
     "modName": "vazarin_transmute_core",
-    "hotness": -949
-  },
-  {
-    "modName": "proboscis",
-    "hotness": -963
-  },
-  {
-    "modName": "rumbled",
-    "hotness": -974
+    "hotness": -0.03189964157706093
   },
   {
     "modName": "madurai_transmute_core",
-    "hotness": -979
+    "hotness": -0.032160312805474094
   },
   {
     "modName": "shrapnel_rounds_(marelok)",
-    "hotness": -979
+    "hotness": -0.032225480612577385
   },
   {
-    "modName": "recharge_barrier",
-    "hotness": -984
-  },
-  {
-    "modName": "worms_torment",
-    "hotness": -986
-  },
-  {
-    "modName": "coolant_leak",
-    "hotness": -989
-  },
-  {
-    "modName": "firewall",
-    "hotness": -989
-  },
-  {
-    "modName": "organ_shatter",
-    "hotness": -989
-  },
-  {
-    "modName": "shredder",
-    "hotness": -989
-  },
-  {
-    "modName": "blood_for_life",
-    "hotness": -994
-  },
-  {
-    "modName": "live_wire",
-    "hotness": -994
-  },
-  {
-    "modName": "out_of_sight",
-    "hotness": -994
-  },
-  {
-    "modName": "fast_hands",
-    "hotness": -997
-  },
-  {
-    "modName": "intruder",
-    "hotness": -998
-  },
-  {
-    "modName": "adrenaline_boost",
-    "hotness": -1008
-  },
-  {
-    "modName": "triple_tap",
-    "hotness": -1009
-  },
-  {
-    "modName": "bane_of_corrupted",
-    "hotness": -1014
-  },
-  {
-    "modName": "aero_agility",
-    "hotness": -1029
-  },
-  {
-    "modName": "argent_scourge",
-    "hotness": -1034
-  },
-  {
-    "modName": "fulmination",
-    "hotness": -1838
-  },
-  {
-    "modName": "investigator",
-    "hotness": -1858
-  },
-  {
-    "modName": "airburst_rounds",
-    "hotness": -1958
-  },
-  {
-    "modName": "focused_defense",
-    "hotness": -1968
-  },
-  {
-    "modName": "blood_for_ammo",
-    "hotness": -1988
-  },
-  {
-    "modName": "hit_and_run",
-    "hotness": -1988
-  },
-  {
-    "modName": "master_key",
-    "hotness": -1988
-  },
-  {
-    "modName": "adept_surge",
-    "hotness": -1998
-  },
-  {
-    "modName": "antimatter_mine",
-    "hotness": -1998
-  },
-  {
-    "modName": "armored_recovery",
-    "hotness": -1998
-  },
-  {
-    "modName": "blind_shot",
-    "hotness": -1998
-  },
-  {
-    "modName": "calculated_spring",
-    "hotness": -1998
-  },
-  {
-    "modName": "calculated_victory",
-    "hotness": -1998
-  },
-  {
-    "modName": "defiled_reckoning",
-    "hotness": -1998
-  },
-  {
-    "modName": "discharge_strike",
-    "hotness": -1998
-  },
-  {
-    "modName": "draining_gloom",
-    "hotness": -1998
-  },
-  {
-    "modName": "emergent_aftermath",
-    "hotness": -1998
-  },
-  {
-    "modName": "gorgon_frenzy",
-    "hotness": -1998
-  },
-  {
-    "modName": "grinloked",
-    "hotness": -1998
-  },
-  {
-    "modName": "hastened_steps",
-    "hotness": -1998
-  },
-  {
-    "modName": "heavy_warhead",
-    "hotness": -1998
-  },
-  {
-    "modName": "heightened_reflexes",
-    "hotness": -1998
-  },
-  {
-    "modName": "hydraulic_chamber",
-    "hotness": -1998
-  },
-  {
-    "modName": "hydraulic_gauge",
-    "hotness": -1998
-  },
-  {
-    "modName": "hysterical_fixation",
-    "hotness": -1998
-  },
-  {
-    "modName": "kinetic_collision",
-    "hotness": -1998
-  },
-  {
-    "modName": "loaded_capacity",
-    "hotness": -1998
-  },
-  {
-    "modName": "lucky_shot",
-    "hotness": -1998
-  },
-  {
-    "modName": "mafic_rain",
-    "hotness": -1998
-  },
-  {
-    "modName": "maximum_capacity",
-    "hotness": -1998
-  },
-  {
-    "modName": "momentary_pause",
-    "hotness": -1998
-  },
-  {
-    "modName": "mortal_conduct",
-    "hotness": -1998
-  },
-  {
-    "modName": "precision_munition",
-    "hotness": -1998
-  },
-  {
-    "modName": "prize_kill",
-    "hotness": -1998
-  },
-  {
-    "modName": "quick_charge",
-    "hotness": -1998
-  },
-  {
-    "modName": "recover",
-    "hotness": -1998
-  },
-  {
-    "modName": "rending_wind",
-    "hotness": -1998
-  },
-  {
-    "modName": "rime_vault",
-    "hotness": -1998
-  },
-  {
-    "modName": "rising_steel",
-    "hotness": -1998
-  },
-  {
-    "modName": "sapping_reach",
-    "hotness": -1998
-  },
-  {
-    "modName": "searing_leap",
-    "hotness": -1998
-  },
-  {
-    "modName": "sharpened_blade",
-    "hotness": -1998
-  },
-  {
-    "modName": "shield_overload",
-    "hotness": -1998
-  },
-  {
-    "modName": "signal_flare",
-    "hotness": -1998
-  },
-  {
-    "modName": "soaring_strike",
-    "hotness": -1998
-  },
-  {
-    "modName": "stand_ground",
-    "hotness": -1998
-  },
-  {
-    "modName": "star_divide",
-    "hotness": -1998
-  },
-  {
-    "modName": "sword_alone",
-    "hotness": -1998
-  },
-  {
-    "modName": "tear_gas",
-    "hotness": -1998
-  },
-  {
-    "modName": "thundermiter_(miter)",
-    "hotness": -1998
-  },
-  {
-    "modName": "vanquished_prey",
-    "hotness": -1998
-  },
-  {
-    "modName": "venomous_rise",
-    "hotness": -1998
-  },
-  {
-    "modName": "voltaic_lance",
-    "hotness": -1998
-  },
-  {
-    "modName": "ward_recovery",
-    "hotness": -1998
-  },
-  {
-    "modName": "blood_for_energy",
-    "hotness": -2928
-  },
-  {
-    "modName": "malicious_code",
-    "hotness": -2973
-  },
-  {
-    "modName": "failsafe",
-    "hotness": -2985
-  },
-  {
-    "modName": "hard_reset",
-    "hotness": -3928
-  },
-  {
-    "modName": "swift_mercy",
-    "hotness": -3976
+    "modName": "pressurized_magazine",
+    "hotness": -0.03274682306940371
   },
   {
     "modName": "plan_b",
-    "hotness": -3996
+    "hotness": -0.0328771586836103
+  },
+  {
+    "modName": "triple_tap",
+    "hotness": -0.0328771586836103
+  },
+  {
+    "modName": "soaring_strike",
+    "hotness": -0.03294232649071359
+  },
+  {
+    "modName": "hydraulic_chamber",
+    "hotness": -0.03313782991202346
+  },
+  {
+    "modName": "heightened_reflexes",
+    "hotness": -0.03352883675464321
+  },
+  {
+    "modName": "kill_switch",
+    "hotness": -0.03352883675464321
+  },
+  {
+    "modName": "tectonic_fracture",
+    "hotness": -0.06314760508308895
+  },
+  {
+    "modName": "hydraulic_gauge",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "hysterical_fixation",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "precision_munition",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "searing_leap",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "shield_overload",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "signal_flare",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "stand_ground",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "sword_alone",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "tear_gas",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "thundermiter_(miter)",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "vanquished_prey",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "venomous_rise",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "voltaic_lance",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "ward_recovery",
+    "hotness": -0.06510263929618769
+  },
+  {
+    "modName": "security_override",
+    "hotness": -0.08299120234604106
+  },
+  {
+    "modName": "whiplash_mine",
+    "hotness": -0.08299120234604106
+  },
+  {
+    "modName": "investigator",
+    "hotness": -0.08787878787878788
+  },
+  {
+    "modName": "targeting_receptor",
+    "hotness": -0.09276637341153471
+  },
+  {
+    "modName": "magazine_warp",
+    "hotness": -0.0959921798631476
+  },
+  {
+    "modName": "organ_shatter",
+    "hotness": -0.09667644183773216
+  },
+  {
+    "modName": "live_wire",
+    "hotness": -0.09716520039100685
+  },
+  {
+    "modName": "master_key",
+    "hotness": -0.09716520039100685
+  },
+  {
+    "modName": "hit_and_run",
+    "hotness": -0.09726295210166178
+  },
+  {
+    "modName": "intruder",
+    "hotness": -0.09755620723362658
+  },
+  {
+    "modName": "lucky_shot",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "mafic_rain",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "rending_wind",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "rising_steel",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "sharpened_blade",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "star_divide",
+    "hotness": -0.09765395894428153
+  },
+  {
+    "modName": "maximum_capacity",
+    "hotness": -0.09960899315738025
+  },
+  {
+    "modName": "hard_reset",
+    "hotness": -0.12759856630824373
   },
   {
     "modName": "sudden_justice",
-    "hotness": -3996
+    "hotness": -0.13020527859237538
   },
   {
     "modName": "tactical_retreat",
-    "hotness": -3996
+    "hotness": -0.13020527859237538
+  },
+  {
+    "modName": "rubble_heap",
+    "hotness": -0.18944281524926687
   },
   {
     "modName": "runtime",
-    "hotness": -4950
+    "hotness": -0.1943304007820137
+  },
+  {
+    "modName": "calculated_shot",
+    "hotness": -0.19530791788856305
+  },
+  {
+    "modName": "loaded_capacity",
+    "hotness": -0.19530791788856305
   },
   {
     "modName": "untraceable",
-    "hotness": -6923
+    "hotness": -0.32160312805474095
   },
   {
     "modName": "power_drain",
-    "hotness": -7872
+    "hotness": -0.3855327468230694
   },
   {
-    "modName": "deadly_maneuvers",
-    "hotness": -7990
-  },
-  {
-    "modName": "auto_breach",
-    "hotness": -9890
-  },
-  {
-    "modName": "legendary_fusion_core",
-    "hotness": -32642
+    "modName": "swift_mercy",
+    "hotness": -0.3882697947214076
   }
 ]
